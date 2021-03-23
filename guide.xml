@@ -1,0 +1,1790 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="RTL Klub (HD)">
+    <display-name lang="hu">RTL Klub (HD)</display-name>
+    <icon src="https://www.musor.tv/images/rtlklub.svg" />
+    <url>http://www.musor.tv</url>
+  </channel>
+  <channel id="TV2 (HD)">
+    <display-name lang="hu">TV2 (HD)</display-name>
+    <icon src="https://www.musor.tv/images/tv2.svg" />
+    <url>http://www.musor.tv</url>
+  </channel>
+  <channel id="Comedy Central">
+    <display-name lang="hu">Comedy Central</display-name>
+    <icon src="https://www.musor.tv/images/comedy_central.svg" />
+    <url>http://www.musor.tv</url>
+  </channel>
+  <channel id="Viasat 3 (HD)">
+    <display-name lang="hu">Viasat 3 (HD)</display-name>
+    <icon src="https://www.musor.tv/images/viasat3_hd.svg" />
+    <url>http://www.musor.tv</url>
+  </channel>
+  <channel id="HBO (HD)">
+    <display-name lang="hu">HBO (HD)</display-name>
+    <icon src="https://www.musor.tv/images/hbo_hd.svg" />
+    <url>http://www.musor.tv</url>
+  </channel>
+  <programme start="20210324005500 +0100" stop="20210324030000 +0100" channel="RTL Klub (HD)">
+    <title lang="hu">Stratton</title>
+    <sub-title lang="hu">angol akciófilm,2017</sub-title>
+    <desc lang="hu">John Stratton és kommandós egysége Iránban készül megrohamozni egy biológiai tömegpusztító fegyverrel kísérletező laboratóriumot, ám az akció végzetes következményekkel jár. Kiderül, hogy az akció mögött egy korább. John Stratton és kommandós egysége Iránban készül megrohamozni egy biológiai tömegpusztító fegyverrel kísérletező laboratóriumot, ám az akció végzetes következményekkel jár. Kiderül, hogy az akció mögött egy korábbi szovjet ügynök, Barovszki áll. A férfit évek óta halottnak hitték, ám úgy tűnik, nem hogy életben van, de harcot hirdetett egykori szervezete, sőt az egész világ ellen. A renegát Barovszki mindig egy lépéssel előttük jár, a bomba pedig valahol már ketyeg.. Rendező: Simon West. Digitális platformon eredeti hanggal is.</desc>
+    <credits>
+      <director>Simon West</director>
+      <actor>Dominic Cooper</actor>
+      <actor>Thomas Kretschmann</actor>
+      <actor>Gemma Chan</actor>
+      <actor>Connie Nielsen</actor>
+      <actor>Derek Jacobi</actor>
+    </credits>
+    <icon src="https://www.musor.tv/img/normal/151/15149/Stratton.jpg" />
+    <rating system="HU">
+      <value>16+</value>
+    </rating>
+  </programme>
+  <programme start="20210324030000 +0100" stop="20210324035000 +0100" channel="RTL Klub (HD)">
+    <title lang="hu">Az én kis családom 92.</title>
+    <sub-title lang="hu">török filmsorozat,2017-2019</sub-title>
+    <desc lang="hu">Fikri megkezdi a nyomozást Sükran után, hogy mielőbb megkapja a pénzt Ömertől, és abból kifizesse az anyját. A gyerekek is segítenek neki. Eljutnak Sükran egy barátnőjéhez, de a lány nem mondd semmi használhatót. Időközben Cemil. Fikri megkezdi a nyomozást Sükran után, hogy mielőbb megkapja a pénzt Ömertől, és abból kifizesse az anyját. A gyerekek is segítenek neki. Eljutnak Sükran egy barátnőjéhez, de a lány nem mondd semmi használhatót. Időközben Cemil panaszt tesz Filiz ellen, mondván a nő erkölcsileg rossz hatással van a gyerekekre, miután a házassága mellett, másokkal is viszonyt folytat. A gyámügy kiküldi a családhoz a képviselőit. Ömer elfogadja Servet megbízását, azaz hogy börtönbe juttatja Filizt, de az utolsó pillanatban eláll a tervétől, mert megérkezik az apasági teszt eredménye, ami igazolja, hogy ő Zeynep vér szerinti apja, így a saját lányát nem akarja veszélynek kitenni. Rendező: Serdar Gözelekli; Koray Kerimoglu. Digitális platformon eredeti hanggal is.</desc>
+    <credits>
+      <director>Serdar Gözelekli</director>
+      <director>Koray Kerimoglu</director>
+      <actor>Hazal Kaya</actor>
+      <actor>Burak Deniz</actor>
+      <actor>Nesrin Cavadzade</actor>
+      <actor>Reha Özcan</actor>
+      <actor>Yagiz Can Konyali</actor>
+      <actor>Zeynep Selimoglu</actor>
+      <actor>Ömer Sevgi</actor>
+      <actor>Alp Akar</actor>
+      <actor>Mehmet Korhan Firat</actor>
+      <actor>Mehmetcan Mincinozlu</actor>
+      <actor>Nejat Uygur</actor>
+      <actor>Evrim Dogan</actor>
+      <actor>Serra Pirinc</actor>
+      <actor>Ismail Karagöz</actor>
+      <actor>Pinar Tore</actor>
+      <actor>Berkay Akin</actor>
+      <actor>Nilay Duru</actor>
+      <actor>Sema Atalay</actor>
+      <actor>Esra Bezen Bilgin</actor>
+      <actor>Cemal Toktas</actor>
+      <actor>Metin Büktel</actor>
+      <actor>Aysen Gruda</actor>
+      <actor>Beren Gokyildiz</actor>
+      <actor>Miray Akay</actor>
+    </credits>
+    <icon src="https://www.musor.tv/img/normal/173/17365/Az_en_kis_csaladom_92_.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324035000 +0100" stop="20210324041500 +0100" channel="RTL Klub (HD)">
+    <title lang="hu">Teleshop</title>
+    <sub-title lang="hu">2021</sub-title>
+    <icon src="https://www.musor.tv/img/normal/68/6832/Teleshop.jpg" />
+  </programme>
+  <programme start="20210324041500 +0100" stop="20210324050000 +0100" channel="RTL Klub (HD)">
+    <title lang="hu">Barátok közt 10295-10296.</title>
+    <sub-title lang="hu">magyar filmsorozat,2021</sub-title>
+    <desc lang="hu">Aliz bizonytalan Zsolttal kapcsolatban, ezért jóshoz fordul útmutatásért. A válasz váratlan helyről érkezik. Levente segíteni szeretne Nórán, mert úgy érzi, szerelme elvesztette az életcélját. Panni nehezen viseli a szigort, ezért. Aliz bizonytalan Zsolttal kapcsolatban, ezért jóshoz fordul útmutatásért. A válasz váratlan helyről érkezik. Levente segíteni szeretne Nórán, mert úgy érzi, szerelme elvesztette az életcélját. Panni nehezen viseli a szigort, ezért önállósítja magát. Luca szorult helyzetbe kerül, amit egy nagy pofonnal old meg. Sorozatok: dráma/melodráma. Hallássérültek számára feliratozva.</desc>
+    <icon src="https://www.musor.tv/img/normal/5/535/Baratok_kozt_10295_10296_.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324050000 +0100" stop="20210324080500 +0100" channel="RTL Klub (HD)">
+    <title lang="hu">Reggeli</title>
+    <sub-title lang="hu">élő magazinműsor,2021</sub-title>
+    <desc lang="hu">Reggeli - Interaktív és erőteljes közösségi blokkokkal, friss hírekkel, időjárás-jelentéssel minden hétköznap reggel az RTL Klub sikerműsora.A minden eddiginél interaktívabb, erős közösségi médiatámogatással bíró műsor a né. Reggeli - Interaktív és erőteljes közösségi blokkokkal, friss hírekkel, időjárás-jelentéssel minden hétköznap reggel az RTL Klub sikerműsora.A minden eddiginél interaktívabb, erős közösségi médiatámogatással bíró műsor a nézők hétköznapjait meghatározó témákat könnyed formában, fiatalosan és lendületesen dolgozza fel.A Reggeli műsorvezető-házigazdái várják hétköznap reggelente azokat, akik vidám, jókedvű, friss információkkal és humorral teli ébredésre vágynak. Szórakozás: talk-show/kvízműsor. Hallássérültek számára feliratozva.</desc>
+    <icon src="https://www.musor.tv/img/normal/100/10088/Reggeli.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324080500 +0100" stop="20210324111500 +0100" channel="RTL Klub (HD)">
+    <title lang="hu">Teleshop</title>
+    <sub-title lang="hu">2021</sub-title>
+    <icon src="https://www.musor.tv/img/normal/68/6832/Teleshop.jpg" />
+  </programme>
+  <programme start="20210324111500 +0100" stop="20210324121000 +0100" channel="RTL Klub (HD)">
+    <title lang="hu">Fókusz</title>
+    <sub-title lang="hu">közszolgálati magazin,2021</sub-title>
+    <desc lang="hu">Hétköznaponként jelentkező riportmagazin a legfrissebb hírekkel, aktuális információkkal, eseményekkel, emberi sorsokkal, érdekes történetekkel és helyszínekkel a világ minden részéről. Hétköznaponként jelentkező riportmagazin a legfrissebb hírekkel, aktuális információkkal, eseményekkel, emberi sorsokkal, érdekes történetekkel és helyszínekkel a világ minden részéről. Információk: ismeretterjesztő/hírek. Hallássérültek számára feliratozva.</desc>
+    <icon src="https://www.musor.tv/img/normal/34/3437/Fokusz.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324121000 +0100" stop="20210324132500 +0100" channel="RTL Klub (HD)">
+    <title lang="hu">Apatigris II./4.</title>
+    <sub-title lang="hu">magyar vígjátéksorozat,2021</sub-title>
+    <desc lang="hu">Lauráék sikeresen beköltöznek az új lakásba, aztán a házban váratlan meglepetés éri őket. Vivi megpróbál beilleszkedni az új munkahelyére, viszont ott több ellenséget szerez, mint barátot. Szandra szeretné rendezni a kapcsolatát. Lauráék sikeresen beköltöznek az új lakásba, aztán a házban váratlan meglepetés éri őket. Vivi megpróbál beilleszkedni az új munkahelyére, viszont ott több ellenséget szerez, mint barátot. Szandra szeretné rendezni a kapcsolatát Artúrral, de a találkozást Kitti érkezése zavarja meg. Péter és Glória között elszabadulnak a szenvedélyek, Szandra pedig egyre mélyebbre csúszik a lejtőn. Rendező: Kovács István. Hallássérültek számára feliratozva.</desc>
+    <credits>
+      <director>Kovács István</director>
+      <actor>Scherer Péter</actor>
+      <actor>Rujder Vivien</actor>
+      <actor>Schmidt Sára</actor>
+      <actor>Michl Juli</actor>
+      <actor>Medveczky Balázs</actor>
+      <actor>Simon Kornél</actor>
+      <actor>Ónodi Eszter</actor>
+      <actor>Árpa Attila</actor>
+      <actor>Haumann Péter</actor>
+      <actor>Für Anikó</actor>
+    </credits>
+    <icon src="https://www.musor.tv/img/normal/183/18335/Apatigris_II_4_.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324132500 +0100" stop="20210324145500 +0100" channel="RTL Klub (HD)">
+    <title lang="hu">Keresztanyu I./57.</title>
+    <sub-title lang="hu">magyar filmsorozat,2021</sub-title>
+    <desc lang="hu">Isten hozta, apuka! Jóska kérdőre vonja Timikét Anatolijról. Imi és Zénó furcsa nyomra bukkannak a szerelőműhelyben, majd Imi rászáll Bonifác atyára. Szemereki megkezdi Damil kiképzését. Krisztina választás elé állítja Igort. Isten hozta, apuka. Jóska kérdőre vonja Timikét Anatolijról. Imi és Zénó furcsa nyomra bukkannak a szerelőműhelyben, majd Imi rászáll Bonifác atyára. Szemereki megkezdi Damil kiképzését. Krisztina választás elé állítja Igort. Rendező: Hámori Barbara. Hallássérültek számára feliratozva.</desc>
+    <credits>
+      <director>Hámori Barbara</director>
+      <actor>Molnár Piroska</actor>
+      <actor>Gálvölgyi János</actor>
+      <actor>Kékesi Gábor</actor>
+      <actor>Dobos Evelin</actor>
+      <actor>Szacsvay László</actor>
+      <actor>Lengyel Ferenc</actor>
+      <actor>Konfár Erik</actor>
+      <actor>Dóra Béla</actor>
+      <actor>Ulmann Mónika</actor>
+      <actor>Mihályfi Balázs</actor>
+      <actor>Tóth Angelika</actor>
+      <actor>Maizác Fanni</actor>
+      <actor>Németh Kristóf</actor>
+      <actor>Balogh Anna</actor>
+      <actor>Gömöri András Máté</actor>
+      <actor>Dzsupin Ibolya</actor>
+      <actor>Magyar Attila</actor>
+      <actor>Sajgál Erika</actor>
+      <actor>Józan László</actor>
+      <actor>Hunyadi Máté</actor>
+      <actor>Nagy Feró</actor>
+      <actor>Ganxsta Zolee</actor>
+      <actor>Farkas Dénes</actor>
+      <actor>Koch-Bulla Zenlda</actor>
+      <actor>Rátonyi Hajni</actor>
+      <actor>Fekete Györgyi</actor>
+      <actor>Noé Viktor</actor>
+      <actor>Mezei Réka Léda</actor>
+      <actor>Petri Viktor</actor>
+      <actor>Gonda Kata</actor>
+      <actor>Janicsek Péter</actor>
+      <actor>Szentiványi Zsolt</actor>
+      <actor>Kenderes Csaba</actor>
+    </credits>
+    <icon src="https://www.musor.tv/img/normal/199/19938/Keresztanyu_I_57_.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324145500 +0100" stop="20210324160500 +0100" channel="RTL Klub (HD)">
+    <title lang="hu">Az ígéret I./57.</title>
+    <sub-title lang="hu">török filmsorozat,2019</sub-title>
+    <desc lang="hu">Sehriye ráveszi Leylát, hogy vegyen elegáns ruhákat magának, ha a tanfolyamra megy. Cavidan és Cemre nem értik, hogy Emir miért szervez meglepetést Reyhannak, amikor úgy tudja, hogy Reyhan csak a pénzért lett a felesége. Cemre be. Sehriye ráveszi Leylát, hogy vegyen elegáns ruhákat magának, ha a tanfolyamra megy. Cavidan és Cemre nem értik, hogy Emir miért szervez meglepetést Reyhannak, amikor úgy tudja, hogy Reyhan csak a pénzért lett a felesége. Cemre bemegy Reyhanhoz, ám ekkor Suna is megérkezik, és elmondja Reyhannak, hogy Emir el akarja vinni vacsorázni. Cemre úgy dönt, a javára fordítja a helyzetet, és ráveszi Reyhant, hogy menjenek el ruhákat venni. Rendező: Serkan Mut; Ayhan Özen. Digitális platformon eredeti hanggal is.</desc>
+    <credits>
+      <director>Serkan Mut</director>
+      <director>Ayhan Özen</director>
+      <actor>Özge Yagiz</actor>
+      <actor>Gokberk Demirci</actor>
+      <actor>Can Verel</actor>
+      <actor>Munise Özlem</actor>
+      <actor>Ceyda Olguner</actor>
+      <actor>Gül Arcan</actor>
+      <actor>Berkent Müftüler</actor>
+      <actor>Derya Kurtulus</actor>
+      <actor>Cansin Mina Gür</actor>
+      <actor>Tugce Ersoy</actor>
+      <actor>Mustafa Simsek</actor>
+      <actor>Esra Coban</actor>
+      <actor>Sila Turkoglu</actor>
+      <actor>Yagmur Akdag</actor>
+      <actor>Ali Dereli</actor>
+      <actor>Baris Gürses</actor>
+      <actor>Tuggül Kücükoglu</actor>
+      <actor>Can Caglar</actor>
+    </credits>
+    <icon src="https://www.musor.tv/img/normal/194/19426/Az_igeret_I_57_.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324160500 +0100" stop="20210324170000 +0100" channel="RTL Klub (HD)">
+    <title lang="hu">Barátok közt 10297-10298.</title>
+    <sub-title lang="hu">magyar filmsorozat,2021</sub-title>
+    <desc lang="hu">Nóra menekülőre fogja Levente túláradó segíteni akarása miatt. Sikerül-e tisztáznia Dorkának a múlt sérelmeit édesanyjával? Miközben Panni elindul a lejtőn lefelé, a felnőttek mindent tűvé tesznek érte. De azt senki sem sejti, m. Nóra menekülőre fogja Levente túláradó segíteni akarása miatt. Sikerül-e tisztáznia Dorkának a múlt sérelmeit édesanyjával? Miközben Panni elindul a lejtőn lefelé, a felnőttek mindent tűvé tesznek érte. De azt senki sem sejti, milyen veszély leselkedik rájuk. Aliz épp döntésre jut Zsolttal kapcsolatban, amikor olyan dolog történik, ami mindent felforgat az életében. Sorozatok: dráma/melodráma. Hallássérültek számára feliratozva.</desc>
+    <icon src="https://www.musor.tv/img/normal/5/535/Baratok_kozt_10297_10298_.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324170000 +0100" stop="20210324175500 +0100" channel="RTL Klub (HD)">
+    <title lang="hu">RTL Híradó - Esti kiadás</title>
+    <sub-title lang="hu">2021</sub-title>
+    <desc lang="hu">Az RTL Klubon mindennap többször is láthatjuk, mi történt a nagyvilágban. Nem csupán a fontosabb bel- és külpolitikai hírekről, hanem gazdasági, sport és kulturális vonatkozású eseményekről is tájékoztatnak bennünket a műsorveze. Az RTL Klubon mindennap többször is láthatjuk, mi történt a nagyvilágban. Nem csupán a fontosabb bel- és külpolitikai hírekről, hanem gazdasági, sport és kulturális vonatkozású eseményekről is tájékoztatnak bennünket a műsorvezetők. Információk: ismeretterjesztő/hírek. Hallássérültek számára feliratozva.</desc>
+    <icon src="https://www.musor.tv/img/normal/34/3435/RTL_Hirado_Esti_kiadas.jpg" />
+  </programme>
+  <programme start="20210324175500 +0100" stop="20210324184000 +0100" channel="RTL Klub (HD)">
+    <title lang="hu">Fókusz</title>
+    <sub-title lang="hu">közszolgálati magazin,2021</sub-title>
+    <desc lang="hu">Hétköznaponként jelentkező riportmagazin a legfrissebb hírekkel, aktuális információkkal, eseményekkel, emberi sorsokkal, érdekes történetekkel és helyszínekkel a világ minden részéről. Hétköznaponként jelentkező riportmagazin a legfrissebb hírekkel, aktuális információkkal, eseményekkel, emberi sorsokkal, érdekes történetekkel és helyszínekkel a világ minden részéről. Információk: ismeretterjesztő/hírek. Hallássérültek számára feliratozva.</desc>
+    <icon src="https://www.musor.tv/img/normal/34/3437/Fokusz.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324184000 +0100" stop="20210324200500 +0100" channel="RTL Klub (HD)">
+    <title lang="hu">Keresztanyu I./58.</title>
+    <sub-title lang="hu">magyar filmsorozat,2021</sub-title>
+    <desc lang="hu">A törölt videó Igor és Gina különös kéréssel fordul Baboshoz. Imi nyomozása eredményre vezet. Bonifác atya kideríti, ki kémkedett utána. Anatolij rendet tesz a csapatában, majd új feladattal bízza meg őket. Tivadar és Márk letar. A törölt videó. Igor és Gina különös kéréssel fordul Baboshoz. Imi nyomozása eredményre vezet. Bonifác atya kideríti, ki kémkedett utána. Anatolij rendet tesz a csapatában, majd új feladattal bízza meg őket. Tivadar és Márk letartóztatást hajt végre. Rendező: Hámori Barbara. Hallássérültek számára feliratozva.</desc>
+    <credits>
+      <director>Hámori Barbara</director>
+      <actor>Molnár Piroska</actor>
+      <actor>Gálvölgyi János</actor>
+      <actor>Kékesi Gábor</actor>
+      <actor>Dobos Evelin</actor>
+      <actor>Szacsvay László</actor>
+      <actor>Lengyel Ferenc</actor>
+      <actor>Konfár Erik</actor>
+      <actor>Dóra Béla</actor>
+      <actor>Ulmann Mónika</actor>
+      <actor>Mihályfi Balázs</actor>
+      <actor>Tóth Angelika</actor>
+      <actor>Maizác Fanni</actor>
+      <actor>Németh Kristóf</actor>
+      <actor>Balogh Anna</actor>
+      <actor>Gömöri András Máté</actor>
+      <actor>Dzsupin Ibolya</actor>
+      <actor>Magyar Attila</actor>
+      <actor>Sajgál Erika</actor>
+      <actor>Józan László</actor>
+      <actor>Hunyadi Máté</actor>
+      <actor>Nagy Feró</actor>
+      <actor>Ganxsta Zolee</actor>
+      <actor>Farkas Dénes</actor>
+      <actor>Koch-Bulla Zenlda</actor>
+      <actor>Rátonyi Hajni</actor>
+      <actor>Fekete Györgyi</actor>
+      <actor>Noé Viktor</actor>
+      <actor>Mezei Réka Léda</actor>
+      <actor>Petri Viktor</actor>
+      <actor>Gonda Kata</actor>
+      <actor>Janicsek Péter</actor>
+      <actor>Szentiványi Zsolt</actor>
+      <actor>Kenderes Csaba</actor>
+    </credits>
+    <icon src="https://www.musor.tv/img/normal/199/19938/Keresztanyu_I_58_.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324200500 +0100" stop="20210324211500 +0100" channel="RTL Klub (HD)">
+    <title lang="hu">A mi kis falunk IV./1.</title>
+    <sub-title lang="hu">magyar vígjátéksorozat,2019</sub-title>
+    <desc lang="hu">A szobordöntés Reggelre eltűnik Pajkaszeg jelképe, a híres kakaós briós szobor és bár hamar előkerül a csatornából, Stokira vár a feladat, hogy kiderítse, mi történt vele. A polgármester megbízza Erikát, hogy hozassa helyre miné. A szobordöntés. Reggelre eltűnik Pajkaszeg jelképe, a híres kakaós briós szobor és bár hamar előkerül a csatornából, Stokira vár a feladat, hogy kiderítse, mi történt vele. A polgármester megbízza Erikát, hogy hozassa helyre minél hamarabb, mert közelegnek az önkormányzati választások és ő különben is az új álomháza tervezőjével találkozik a tóparton. Teca és a pap az ominózus csók után a városba megy, hogy megoldást találjanak az őket kínzó problémára. Rendező: Kapitány Iván. Hallássérültek számára feliratozva.</desc>
+    <credits>
+      <director>Kapitány Iván</director>
+      <actor>Csuja Imre</actor>
+      <actor>Bánki Gergő</actor>
+      <actor>Bata Éva</actor>
+      <actor>Schmied Zoltán</actor>
+      <actor>Reviczky Gábor</actor>
+      <actor>Szabó Győző</actor>
+      <actor>Lovas Rozi</actor>
+      <actor>Lengyel Tamás</actor>
+      <actor>Udvaros Dorottya</actor>
+      <actor>Debreczeny Csaba</actor>
+      <actor>Kerekes József</actor>
+      <actor>Molnár Áron</actor>
+      <actor>Zsurzs Kati</actor>
+      <actor>Bezerédi Zoltán</actor>
+      <actor>Fehér Tibor</actor>
+      <actor>Törőcsik Franciska</actor>
+    </credits>
+    <icon src="https://www.musor.tv/img/normal/94/9426/A_mi_kis_falunk_IV_1_.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324211500 +0100" stop="20210324223000 +0100" channel="RTL Klub (HD)">
+    <title lang="hu">Nagy szám I./4.</title>
+    <sub-title lang="hu">riportfilmsorozat,2021</sub-title>
+    <desc lang="hu">Az RTL Klub új, saját gyártású riportfilmsorozatában Kovács Patrícia műsorvezetésével népszerű sztárok mutatkoznak be eddig ismeretlen oldalukról, egy számukra fontos és meghatározó zeneszámon keresztül. Egy adáson belül két s. Az RTL Klub új, saját gyártású riportfilmsorozatában Kovács Patrícia műsorvezetésével népszerű sztárok mutatkoznak be eddig ismeretlen oldalukról, egy számukra fontos és meghatározó zeneszámon keresztül. Egy adáson belül két sztár életútját kísérhetjük végig számtalan izgalmas epizódon át, amelyek egy számukra fontos és meghatározó zeneszám köré épülnek. A riportban előrehaladva soha nem hallott történeteken keresztül derül ki, a zene milyen szerepet játszik és játszott a főhős életében, miben határozta meg és miért ez élete legfontosabb dala. A műsor egyik legizgalmasabb részeként a kiválasztott dalt is előadják.A Nagy számban többek között olyan színészek, előadóművészek és műsorvezetők szerepelnek, mint Liptai Claudia, Barabás Éva, Szellő István, Fluor Tomi, Pataky Attila - és még sok közkedvelt sztár, akiket teljesen új oldalukról ismerhetünk meg.Nagy szám - minden szerda este premier adással - az RTL Klub műsorán. Információk: ismeretterjesztő/hírek. Hallássérültek számára feliratozva.</desc>
+    <icon src="https://www.musor.tv/img/normal/203/20367/Nagy_szam_I_4_.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324223000 +0100" stop="20210324230500 +0100" channel="RTL Klub (HD)">
+    <title lang="hu">RTL Híradó - Késő esti kiadás</title>
+    <sub-title lang="hu">2021</sub-title>
+    <desc lang="hu">Az RTL Híradó - Késő esti kiadása a klasszikus híradó mintáját követi a hírsorrend terén; koncentrál a fontos politikai, közéleti, gazdasági, külpolitikai témákra és az ezekkel kapcsolatos információkat gyűjti, szemlézi. Íg. Az RTL Híradó - Késő esti kiadása a klasszikus híradó mintáját követi a hírsorrend terén; koncentrál a fontos politikai, közéleti, gazdasági, külpolitikai témákra és az ezekkel kapcsolatos információkat gyűjti, szemlézi. Így a megszokott módon a műsor elején a legfontosabb hírek, a végén pedig színesebb, könnyedebb témák várhatók. Információk: ismeretterjesztő/hírek. Hallássérültek számára feliratozva.</desc>
+    <icon src="https://www.musor.tv/img/normal/34/3435/RTL_Hirado_Keso_esti_kiadas.jpg" />
+  </programme>
+  <programme start="20210324230500 +0100" stop="20210324235500 +0100" channel="RTL Klub (HD)">
+    <title lang="hu">Barátok közt 10297-10298.</title>
+    <sub-title lang="hu">magyar filmsorozat,2021</sub-title>
+    <desc lang="hu">Nóra menekülőre fogja Levente túláradó segíteni akarása miatt. Sikerül-e tisztáznia Dorkának a múlt sérelmeit édesanyjával? Miközben Panni elindul a lejtőn lefelé, a felnőttek mindent tűvé tesznek érte. De azt senki sem sejti, m. Nóra menekülőre fogja Levente túláradó segíteni akarása miatt. Sikerül-e tisztáznia Dorkának a múlt sérelmeit édesanyjával? Miközben Panni elindul a lejtőn lefelé, a felnőttek mindent tűvé tesznek érte. De azt senki sem sejti, milyen veszély leselkedik rájuk. Aliz épp döntésre jut Zsolttal kapcsolatban, amikor olyan dolog történik, ami mindent felforgat az életében. Sorozatok: dráma/melodráma. Hallássérültek számára feliratozva.</desc>
+    <icon src="https://www.musor.tv/img/normal/5/535/Baratok_kozt_10297_10298_.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324235500 +0100" stop="20210325010500 +0100" channel="RTL Klub (HD)">
+    <title lang="hu">CSI: A helyszínelők I./18.</title>
+    <sub-title lang="hu">amerikai-kanadai krimisorozat,2000-2001</sub-title>
+    <desc lang="hu">Gyilkosság az utcán Egy házaspár a házassági évfordulóját ünnepli egy étteremben. Amikor az örömünnep után hazafelé tartanak, meggyilkolják őket az utcán, s az autójukat ellopják. Mire a helyszínelők megérkeznek, az eső. Gyilkosság az utcán. Egy házaspár a házassági évfordulóját ünnepli egy étteremben. Amikor az örömünnep után hazafelé tartanak, meggyilkolják őket az utcán, s az autójukat ellopják. Mire a helyszínelők megérkeznek, az eső megered, így még kevesebb használható nyom marad. Az ellopott kocsit megtalálják, ám az ügy egyre rejtélyesebbé válik. Digitális platformon eredeti hanggal is.</desc>
+    <credits>
+      <actor>William Petersen</actor>
+      <actor>Marg Helgenberger</actor>
+      <actor>George Eads</actor>
+      <actor>Gary Dourdan</actor>
+      <actor>Eric Szmanda</actor>
+      <actor>Paul Guilfoyle</actor>
+      <actor>Robert David Hall</actor>
+      <actor>Jorja Fox</actor>
+      <actor>Chandra West</actor>
+      <actor>David Berman</actor>
+    </credits>
+    <icon src="https://www.musor.tv/img/normal/1/185/CSI_A_helyszinelok_I_18_.jpg" />
+    <rating system="HU">
+      <value>16+</value>
+    </rating>
+  </programme>
+  <programme start="20210324010000 +0100" stop="20210324021000 +0100" channel="TV2 (HD)">
+    <title lang="hu">Doc Martin 2.</title>
+    <sub-title lang="hu">angol filmsorozat,2004-2019</sub-title>
+    <desc lang="hu">Dr. Martin Ellingham, a sikeres londoni sebész kénytelen hátat fordítani hivatásának, miután egy műtét során rosszul lesz a vér látványától. Körzeti orvosként folytatja, egy Isten háta mögötti településen, ahol sokat nyaralt gye. Dr. Martin Ellingham, a sikeres londoni sebész kénytelen hátat fordítani hivatásának, miután egy műtét során rosszul lesz a vér látványától. Körzeti orvosként folytatja, egy Isten háta mögötti településen, ahol sokat nyaralt gyerekkorában a nagynénjénél. A faluban kíváncsian várják az új orvost, Martin dokinak pedig még fogalma sincs róla, hogy ezen a helyen nemcsak gyógyítania kell a betegeket, hanem meg is hallgatnia őket. Vasalt öltönyében és fekete autójában a nyugalmas kis faluban Martin doki olyan, mint egy partra vetett hal.. Hallássérültek számára feliratozva.</desc>
+    <credits>
+      <actor>Martin Clunes</actor>
+      <actor>Ian McNeice</actor>
+      <actor>Stephanie Cole</actor>
+      <actor>Caroline Catz</actor>
+      <actor>Joe Absolom</actor>
+    </credits>
+    <icon src="https://www.musor.tv/img/normal/53/5340/Doc_Martin_2_.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324021000 +0100" stop="20210324025500 +0100" channel="TV2 (HD)">
+    <title lang="hu">Tények Este</title>
+    <sub-title lang="hu">hírműsor,2021</sub-title>
+    <desc lang="hu">Információk: ismeretterjesztő/hírek. Hallássérültek számára feliratozva.</desc>
+    <icon src="https://www.musor.tv/img/normal/17/1779/Tenyek_Este.jpg" />
+  </programme>
+  <programme start="20210324025500 +0100" stop="20210324032500 +0100" channel="TV2 (HD)">
+    <title lang="hu">Lokoléo Party - Jollyval</title>
+    <sub-title lang="hu">zenés szórakoztató műsor,2021</sub-title>
+    <desc lang="hu">A Lokoléo Party - Jollyval, Jolly első, önálló műsora, melyben főként mulatós dalok, latin ritmusok és fülbemászó slágerek is hallhatóak. Felcsendülnek már ismert és még nem hallott dalok is a házigazdától, emellett számos vend. A Lokoléo Party - Jollyval, Jolly első, önálló műsora, melyben főként mulatós dalok, latin ritmusok és fülbemászó slágerek is hallhatóak. Felcsendülnek már ismert és még nem hallott dalok is a házigazdától, emellett számos vendég is szerepel a műsorban. Szórakozás: világzene/népzene. Hallássérültek számára feliratozva.</desc>
+    <icon src="https://www.musor.tv/img/small/139/13950/Lakodalmas_8_.jpg width=174 height=116 alt=tv-műsor: Lakodalmas 8.  /&gt;  &lt;/div&gt;&#xA;&lt;div class=smartpe_progentry  itemscope itemtype=https://schema.org/BroadcastEvent title=Tovább a részletes műsorinformációhoz onclick=clickOn(event,'a_31665046');" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324032500 +0100" stop="20210324041500 +0100" channel="TV2 (HD)">
+    <title lang="hu">Zeneexpressz - Fásy Ádám műsora</title>
+    <sub-title lang="hu">zenés szórakoztató műsor,2020</sub-title>
+    <desc lang="hu">Fásy Ádám és a Zeneexpressz megállíthatatlan! A zenés vonat tovább robog a Zenebutik TV-n! A Zeneexpressz fogalma immár több, mint másfél évtizede egyet jelent az igényes szórakoztatással. Indulása óta számtalan gigantikus és fele. Fásy Ádám és a Zeneexpressz megállíthatatlan! A zenés vonat tovább robog a Zenebutik TV-n! A Zeneexpressz fogalma immár több, mint másfél évtizede egyet jelent az igényes szórakoztatással. Indulása óta számtalan gigantikus és feledhetetlen bulit tudhat maga mögött a Fásy Ádám vezette műsor, melyben Magyarország legnagyobb sztárjai gondoskodnak a jó hangulatról. Megújult külsővel, ám a már megszokott magas színvonalon várja nézőit a műsor hétről-hétre a Zenebutikon. Hallássérültek számára feliratozva.</desc>
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324041500 +0100" stop="20210324051500 +0100" channel="TV2 (HD)">
+    <title lang="hu">Családi Titkok 165.</title>
+    <sub-title lang="hu">magyar reality sorozat,2013</sub-title>
+    <desc lang="hu">Családi drámák, megdöbbentő történetek, embert próbáló helyzetek. Hétköznapi csaták, melyek harcmezején családtagok kerülnek egymással szembe. A legjobb forgatókönyveket az Élet írja.. Családi drámák, megdöbbentő történetek, embert próbáló helyzetek. Hétköznapi csaták, melyek harcmezején családtagok kerülnek egymással szembe. A legjobb forgatókönyveket az Élet írja...  Információk: dokumentumfilm/reality. Hallássérültek számára feliratozva.</desc>
+    <icon src="https://www.musor.tv/img/normal/0/5/Csaladi_Titkok_165_.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324051500 +0100" stop="20210324052500 +0100" channel="TV2 (HD)">
+    <title lang="hu">MOKKA</title>
+    <sub-title lang="hu">magazinműsor,2021</sub-title>
+    <desc lang="hu">A TV2 reggeli magazinműsora! A TV2 reggeli magazinműsora. Szórakozás: stílus/divat/pletykák. Hallássérültek számára feliratozva.</desc>
+    <icon src="https://www.musor.tv/img/normal/17/1793/MOKKA.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324052500 +0100" stop="20210324055500 +0100" channel="TV2 (HD)">
+    <title lang="hu">Tények Reggel</title>
+    <sub-title lang="hu">hírműsor,2021</sub-title>
+    <desc lang="hu">Információk: ismeretterjesztő/hírek. Hallássérültek számára feliratozva.</desc>
+    <icon src="https://www.musor.tv/img/normal/17/1779/Tenyek_Reggel.jpg" />
+  </programme>
+  <programme start="20210324055500 +0100" stop="20210324074500 +0100" channel="TV2 (HD)">
+    <title lang="hu">MOKKA</title>
+    <sub-title lang="hu">magazinműsor,2021</sub-title>
+    <desc lang="hu">A TV2 reggeli magazinműsora! A TV2 reggeli magazinműsora. Szórakozás: stílus/divat/pletykák. Hallássérültek számára feliratozva.</desc>
+    <icon src="https://www.musor.tv/img/normal/17/1793/MOKKA.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324074500 +0100" stop="20210324084000 +0100" channel="TV2 (HD)">
+    <title lang="hu">MOKKACINO</title>
+    <sub-title lang="hu">magazinműsor,2021</sub-title>
+    <desc lang="hu">Szórakozás: stílus/divat/pletykák. Hallássérültek számára feliratozva.</desc>
+    <icon src="https://www.musor.tv/img/small/202/20265/Alomhaz_a_parbaj_II_5_.jpg width=174 height=116 alt=tv-műsor: Álomház - a párbaj II./5.  /&gt;  &lt;/div&gt;&#xA;&lt;div class=smartpe_progentry  itemscope itemtype=https://schema.org/BroadcastEvent title=Tovább a részletes műsorinformációhoz onclick=clickOn(event,'a_31632303');" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324084000 +0100" stop="20210324094500 +0100" channel="TV2 (HD)">
+    <title lang="hu">TELESHOP</title>
+    <sub-title lang="hu">2021</sub-title>
+    <desc lang="hu">Hallássérültek számára feliratozva.</desc>
+    <icon src="https://www.musor.tv/img/normal/68/6832/TELESHOP.jpg" />
+  </programme>
+  <programme start="20210324094500 +0100" stop="20210324101500 +0100" channel="TV2 (HD)">
+    <title lang="hu">Csapdába csalva 15.</title>
+    <sub-title lang="hu">német doku-reality sorozat,2011</sub-title>
+    <desc lang="hu">Minden nap megtörténik a világon, szinte már hozzátartozik az emberek életéhez: becsapunk másokat és minket is becsapnak! Vannak, akik a pénzért teszik mindezt és haszonszerzés reményében átverik a munkáltatójukat, vagy. Minden nap megtörténik a világon, szinte már hozzátartozik az emberek életéhez: becsapunk másokat és minket is becsapnak! Vannak, akik a pénzért teszik mindezt és haszonszerzés reményében átverik a munkáltatójukat, vagy a biztosító társaságokat. Ám sajnos szomorú tény, hogy a legáltalánosabb, hogy mindez egy párkapcsolaton belül történik meg...Hazugságok, hűtlenség, hamis vádak, titkos életek állnak szemben az igazsággal. A sorozatban olyan történeteket láthatunk, amelyek mind ilyen élethelyzeteket mutatnak be.. Információk: dokumentumfilm/reality. Hallássérültek számára feliratozva.</desc>
+    <icon src="https://www.musor.tv/img/normal/5/509/Csapdaba_csalva_15_.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324101500 +0100" stop="20210324110000 +0100" channel="TV2 (HD)">
+    <title lang="hu">Mintaapák 178.</title>
+    <sub-title lang="hu">magyar fikciós sorozat,2020</sub-title>
+    <desc lang="hu">A négy apa története tovább folytatódik, a nézőket pedig az eddiginél is fordulatosabb és még több izgalmat ígérő epizódok várják. Jön az alfahímként viselkedő Géza (Kamarás Iván), aki nem talál kiutat a feleségével egyre j. A négy apa története tovább folytatódik, a nézőket pedig az eddiginél is fordulatosabb és még több izgalmat ígérő epizódok várják. Jön az alfahímként viselkedő Géza (Kamarás Iván), aki nem talál kiutat a feleségével egyre jobban elmérgesedő viszályból. Szabi (Markanczi Zalán), a hedonista sztárügyvéd, aki új kihívások elé néz szerelmi életében és felelős apaként. A megözvegyült állatorvos, Tamás (Száraz Dénes), aki nem adja fel, hogy boldogságot és megnyugvást találjon önmaga és a lánya számára. Valamint a két családja között "zsonglőrködő" Miki (Mészáros Béla), aki a folytatásban is a bajt vonzza. Az apák mellett pedig továbbra is számos kiváló színésszel és rendkívül tehetséges gyerekszereplővel találkozhatnak a sorozat követői.. Hallássérültek számára feliratozva.</desc>
+    <credits>
+      <actor>Kamarás Iván</actor>
+      <actor>Száraz Dénes</actor>
+      <actor>Mészáros Béla</actor>
+      <actor>Makranczi Zalán</actor>
+      <actor>Stohl András</actor>
+    </credits>
+    <icon src="https://www.musor.tv/img/normal/189/18953/Mintaapak_178_.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324110000 +0100" stop="20210324113000 +0100" channel="TV2 (HD)">
+    <title lang="hu">Tények Délben</title>
+    <sub-title lang="hu">hírműsor,2021</sub-title>
+    <desc lang="hu">Információk: ismeretterjesztő/hírek. Hallássérültek számára feliratozva.</desc>
+    <icon src="https://www.musor.tv/img/normal/17/1779/Tenyek_Delben.jpg" />
+  </programme>
+  <programme start="20210324113000 +0100" stop="20210324123500 +0100" channel="TV2 (HD)">
+    <title lang="hu">Walker, a Texas-i kopó</title>
+    <sub-title lang="hu">amerikai akciófilm-sorozat,1993-2001</sub-title>
+    <desc lang="hu">Walker seriff (Chuck Norris) legközelebbi barátja, az egykori texas ranger, C.D. Parker (Noble Willingham) ugyan már visszavonult, de a nehéz esetek kapcsán mégis hasznos tanácsokkal látja el Walkert. Segítségére van még James "Jimm. Walker seriff (Chuck Norris) legközelebbi barátja, az egykori texas ranger, C.D. Parker (Noble Willingham) ugyan már visszavonult, de a nehéz esetek kapcsán mégis hasznos tanácsokkal látja el Walkert. Segítségére van még James "Jimmy" Trivette (Clarence Gilyard Jr.), a Baltimore-i ex-labdarúgó seriff-helyettes, aki a modern kor eszközeivel segíti Walkert. Valamint csapatuk tagja még Alex Cahill (Sheree J. Wilson), megyei helyettes kerületi államügyész, aki ugyan vonzódik Walkerhez, de néha nem ért egyet a liberális szellemű bűnüldözés megközelítésével.. Hallássérültek számára feliratozva.</desc>
+    <credits>
+      <actor>Chuck Norris</actor>
+      <actor>Sheree J. Wilson</actor>
+      <actor>Noble Willingham</actor>
+      <actor>Clarence Gilyard Jr.</actor>
+    </credits>
+    <icon src="https://www.musor.tv/img/normal/13/1388/Walker_a_Texas_i_kopo.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324123500 +0100" stop="20210324133500 +0100" channel="TV2 (HD)">
+    <title lang="hu">Walker, a Texas-i kopó IV./8.</title>
+    <sub-title lang="hu">amerikai akciófilm-sorozat,1993-2001</sub-title>
+    <desc lang="hu">Néma jajkiáltás Darcy Reynolds huszonegyedik születésnapját barátnőivel egy mulatóban ünnepli, ahol egy brutális bűnbanda áldozatául esik: titokban drogot adnak neki és megerőszakolják. Walker a bűnözők nyomába ered, a. Néma jajkiáltás. Darcy Reynolds huszonegyedik születésnapját barátnőivel egy mulatóban ünnepli, ahol egy brutális bűnbanda áldozatául esik: titokban drogot adnak neki és megerőszakolják. Walker a bűnözők nyomába ered, akik minden terhelő bizonyítékot igyekeznek eltüntetni.. Hallássérültek számára feliratozva.</desc>
+    <credits>
+      <actor>Chuck Norris</actor>
+      <actor>Sheree J. Wilson</actor>
+      <actor>Noble Willingham</actor>
+      <actor>Clarence Gilyard Jr.</actor>
+    </credits>
+    <icon src="https://www.musor.tv/img/normal/13/1388/Walker_a_Texas_i_kopo_IV_8_.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324133500 +0100" stop="20210324144000 +0100" channel="TV2 (HD)">
+    <title lang="hu">Tiéd az életem 57.</title>
+    <sub-title lang="hu">mexikói filmsorozat,2020</sub-title>
+    <desc lang="hu">Nelson megtudja, hogy Gina hazudik Pedro-nak a születendő gyermekkel kapcsolatban. Jimmy állapota rosszabbra fordul Ernesto szörnyű tette miatt. Andrea aggódik lánya, Irene miatt,aki a szokásosnál is gorombább a családtagjaival. Elena bej. Nelson megtudja, hogy Gina hazudik Pedro-nak a születendő gyermekkel kapcsolatban. Jimmy állapota rosszabbra fordul Ernesto szörnyű tette miatt. Andrea aggódik lánya, Irene miatt,aki a szokásosnál is gorombább a családtagjaival. Elena bejelenti Ernesto-nak, hogy beadta a válókeresetet.. Hallássérültek számára feliratozva.</desc>
+    <credits>
+      <actor>José Ron</actor>
+      <actor>Eva Cedeno</actor>
+      <actor>Jorge Salinas</actor>
+      <actor>Erika Buenfil</actor>
+      <actor>Nuria Bages</actor>
+      <actor>Omar Fierro</actor>
+      <actor>Leonardo Herrera</actor>
+    </credits>
+    <icon src="https://www.musor.tv/img/normal/199/19997/Tied_az_eletem_57_.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324144000 +0100" stop="20210324154500 +0100" channel="TV2 (HD)">
+    <title lang="hu">Az én lányom 57.</title>
+    <sub-title lang="hu">török filmsorozat,2018-2019</sub-title>
+    <desc lang="hu">Öykü állapota egyre csak romlik, az iskolában éri egy roham, ami miatt öntudatlan állapotba kerül. Az iskolából elindul és senki nem találja, legnagyobb megdöbbenésre, Cemal is a kis Öyküt keresi. Demirt meglepetés éri, amikor saj. Öykü állapota egyre csak romlik, az iskolában éri egy roham, ami miatt öntudatlan állapotba kerül. Az iskolából elindul és senki nem találja, legnagyobb megdöbbenésre, Cemal is a kis Öyküt keresi. Demirt meglepetés éri, amikor saját lánya nem ismeri őt meg. Hallássérültek számára feliratozva.</desc>
+    <credits>
+      <actor>Beren Gokyildiz</actor>
+      <actor>Bugra Gülsoy</actor>
+      <actor>Leyla Lydia Tugutlu</actor>
+      <actor>Serhat Teoman</actor>
+      <actor>Tugay Mercan</actor>
+      <actor>Suna Selen</actor>
+      <actor>Sinem Ünsal</actor>
+    </credits>
+    <icon src="https://www.musor.tv/img/normal/199/19996/Az_en_lanyom_57_.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324154500 +0100" stop="20210324170000 +0100" channel="TV2 (HD)">
+    <title lang="hu">A bosszú csapdájában 101.</title>
+    <sub-title lang="hu">török filmsorozat,2019</sub-title>
+    <desc lang="hu">Firat elmondja Gönülnek, hogy szerelmes. Reyyan és Miran boldogabbak, mint valaha. Sükran néni egy újabb üzenetet ad át Azizének a titkos ellenségétől. Azize azt akarja, hogy Firat írassa a nevére a vagyont, azonban Firat nem engedelmes. Firat elmondja Gönülnek, hogy szerelmes. Reyyan és Miran boldogabbak, mint valaha. Sükran néni egy újabb üzenetet ad át Azizének a titkos ellenségétől. Azize azt akarja, hogy Firat írassa a nevére a vagyont, azonban Firat nem engedelmeskedik. Hallássérültek számára feliratozva.</desc>
+    <credits>
+      <actor>Akin Akinözü</actor>
+      <actor>Ebru Sahin</actor>
+      <actor>Gülcin Santircioglu</actor>
+      <actor>Ilay Erkök</actor>
+      <actor>Macit Sonkan</actor>
+    </credits>
+    <icon src="https://www.musor.tv/img/normal/192/19233/A_bosszu_csapdajaban_101_.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324170000 +0100" stop="20210324174500 +0100" channel="TV2 (HD)">
+    <title lang="hu">Tények</title>
+    <sub-title lang="hu">hírműsor,2021</sub-title>
+    <desc lang="hu">Információk: ismeretterjesztő/hírek. Hallássérültek számára feliratozva.</desc>
+    <icon src="https://www.musor.tv/img/normal/17/1779/Tenyek.jpg" />
+  </programme>
+  <programme start="20210324174500 +0100" stop="20210324184000 +0100" channel="TV2 (HD)">
+    <title lang="hu">Tények Plusz</title>
+    <sub-title lang="hu">2021</sub-title>
+    <desc lang="hu">Információk: ismeretterjesztő/hírek. Hallássérültek számára feliratozva.</desc>
+    <icon src="https://www.musor.tv/img/normal/17/1779/Tenyek_Plusz.jpg" />
+  </programme>
+  <programme start="20210324184000 +0100" stop="20210324214000 +0100" channel="TV2 (HD)">
+    <title lang="hu">Exatlon Hungary 63.</title>
+    <sub-title lang="hu">extrém sport-reality</sub-title>
+    <desc lang="hu">A legenda folytatódik, jön az Exatlon Hungary! Két évad, 190 epizód és több, mint 3500 versenyfutam után újra jön az Exatlon Hungary. A TV2 extrém sport-realityje hamarosan a napfényes Dominikai Köztársaságból jelentkezik, ahol már a. A legenda folytatódik, jön az Exatlon Hungary! Két évad, 190 epizód és több, mint 3500 versenyfutam után újra jön az Exatlon Hungary. A TV2 extrém sport-realityje hamarosan a napfényes Dominikai Köztársaságból jelentkezik, ahol már a jól ismert, embert próbáló akadálypályák mellé még nehezebb, nagyobb kihívást jelentő és látványosabb pályák épültek, hogy otthont adjanak a Bajnokok és Kihívók párharcának. Az Exatlon Hungary műsorvezetője ezúttal is Palik László lesz. Műsorvezető: Palik László. Sport: egyéb. Hallássérültek számára feliratozva.</desc>
+    <icon src="https://www.musor.tv/img/normal/153/15311/Exatlon_Hungary_63_.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324214000 +0100" stop="20210324224500 +0100" channel="TV2 (HD)">
+    <title lang="hu">Magánnyomozók 3.</title>
+    <sub-title lang="hu">magyar doku-reality sorozat,2014</sub-title>
+    <desc lang="hu">Mellbevágó eset Evelin egyedül nevelte fel a lányát. Szandra ma már 19 éves, de még mindig mindent megbeszél az édesanyjával. Kivéve azt, amire most készül... Csakhogy nem minden a tervek szerint alakul. Az egyszerűnek tűnő nyomozá. Mellbevágó eset. Evelin egyedül nevelte fel a lányát. Szandra ma már 19 éves, de még mindig mindent megbeszél az édesanyjával. Kivéve azt, amire most készül... Csakhogy nem minden a tervek szerint alakul. Az egyszerűnek tűnő nyomozás egyre szövevényesebbé válik, és a végén többen is életveszélybe kerülnek.. Információk: dokumentumfilm/reality. Hallássérültek számára feliratozva.</desc>
+    <icon src="https://www.musor.tv/img/normal/5/539/Magannyomozok_3_.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324224500 +0100" stop="20210324235000 +0100" channel="TV2 (HD)">
+    <title lang="hu">Családi Titkok</title>
+    <sub-title lang="hu">magyar reality sorozat,2013</sub-title>
+    <desc lang="hu">Családi drámák, megdöbbentő történetek, embert próbáló helyzetek. Hétköznapi csaták, melyek harcmezején családtagok kerülnek egymással szembe. A legjobb forgatókönyveket az Élet írja.. Családi drámák, megdöbbentő történetek, embert próbáló helyzetek. Hétköznapi csaták, melyek harcmezején családtagok kerülnek egymással szembe. A legjobb forgatókönyveket az Élet írja...  ism. Információk: dokumentumfilm/reality. Hallássérültek számára feliratozva.</desc>
+    <icon src="https://www.musor.tv/img/normal/0/5/Csaladi_Titkok.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324235000 +0100" stop="20210325005500 +0100" channel="TV2 (HD)">
+    <title lang="hu">Walker, a Texas-i kopó</title>
+    <sub-title lang="hu">amerikai akciófilm-sorozat,1993-2001</sub-title>
+    <desc lang="hu">Walker seriff (Chuck Norris) legközelebbi barátja, az egykori texas ranger, C.D. Parker (Noble Willingham) ugyan már visszavonult, de a nehéz esetek kapcsán mégis hasznos tanácsokkal látja el Walkert. Segítségére van még James "Jimm. Walker seriff (Chuck Norris) legközelebbi barátja, az egykori texas ranger, C.D. Parker (Noble Willingham) ugyan már visszavonult, de a nehéz esetek kapcsán mégis hasznos tanácsokkal látja el Walkert. Segítségére van még James "Jimmy" Trivette (Clarence Gilyard Jr.), a Baltimore-i ex-labdarúgó seriff-helyettes, aki a modern kor eszközeivel segíti Walkert. Valamint csapatuk tagja még Alex Cahill (Sheree J. Wilson), megyei helyettes kerületi államügyész, aki ugyan vonzódik Walkerhez, de néha nem ért egyet a liberális szellemű bűnüldözés megközelítésével.. Hallássérültek számára feliratozva.</desc>
+    <credits>
+      <actor>Chuck Norris</actor>
+      <actor>Sheree J. Wilson</actor>
+      <actor>Noble Willingham</actor>
+      <actor>Clarence Gilyard Jr.</actor>
+    </credits>
+    <icon src="https://www.musor.tv/img/normal/13/1388/Walker_a_Texas_i_kopo.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324002500 +0100" stop="20210324005500 +0100" channel="Comedy Central">
+    <title lang="hu">Egy kapcsolat szabályai VII./8.</title>
+    <sub-title lang="hu">amerikai vígjátéksorozat,2013</sub-title>
+    <desc lang="hu">Ebben az új vígjátéksorozatban nyomon követhetjük egy kedves házaspár, egy friss jegyespár és egy elégedett agglegény egyedülálló barátságát, miként érvényesülnek a párkapcsolatok útvesztőjében. Rendezte: Ted Wass Főszerep. Ebben az új vígjátéksorozatban nyomon követhetjük egy kedves házaspár, egy friss jegyespár és egy elégedett agglegény egyedülálló barátságát, miként érvényesülnek a párkapcsolatok útvesztőjében. Sorozatok: humor/musical.</desc>
+    <credits>
+      <director>Ted Wass</director>
+      <actor>Megyn Price,Patrick Warburton,Bianca Kajlich,Oliver Hudson,David Spade,Adhir Kalyan</actor>
+    </credits>
+    <icon src="https://www.musor.tv/img/normal/20/2008/Egy_kapcsolat_szabalyai_VII_8_.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324005500 +0100" stop="20210324012000 +0100" channel="Comedy Central">
+    <title lang="hu">Egy kapcsolat szabályai VII./9.</title>
+    <sub-title lang="hu">amerikai vígjátéksorozat,2013</sub-title>
+    <desc lang="hu">Ebben az új vígjátéksorozatban nyomon követhetjük egy kedves házaspár, egy friss jegyespár és egy elégedett agglegény egyedülálló barátságát, miként érvényesülnek a párkapcsolatok útvesztőjében. Rendezte: Ted Wass Főszerep. Ebben az új vígjátéksorozatban nyomon követhetjük egy kedves házaspár, egy friss jegyespár és egy elégedett agglegény egyedülálló barátságát, miként érvényesülnek a párkapcsolatok útvesztőjében. Sorozatok: humor/musical.</desc>
+    <credits>
+      <director>Ted Wass</director>
+      <actor>Megyn Price,Patrick Warburton,Bianca Kajlich,Oliver Hudson,David Spade,Adhir Kalyan</actor>
+    </credits>
+    <icon src="https://www.musor.tv/img/normal/20/2008/Egy_kapcsolat_szabalyai_VII_9_.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324012000 +0100" stop="20210324015000 +0100" channel="Comedy Central">
+    <title lang="hu">South Park II./14.</title>
+    <sub-title lang="hu">amerikai rajzfilmsorozat</sub-title>
+    <desc lang="hu">Chef-segély Chefet perelik nem kevesebb, mint 2 millió dollárra. Ezért a többiek segély koncertet szerveznek neki, ahol hatalmas sztárok lépnek fel. Chef-segély. Chefet perelik nem kevesebb, mint 2 millió dollárra. Ezért a többiek segély koncertet szerveznek neki, ahol hatalmas sztárok lépnek fel. Sorozatok: humor/musical.</desc>
+    <icon src="https://www.musor.tv/img/normal/1/116/South_Park_II_14_.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324015000 +0100" stop="20210324022000 +0100" channel="Comedy Central">
+    <title lang="hu">Archer XI./2.</title>
+    <desc lang="hu">A sorozat főszereplője Sterling Archer, a világ legveszélyesebb kéme. Bár mesteri szinten űzi hivatását, egoista bunkó, akit csak az érdekel, hogy a zsarnoki anyja által vezetett kémszervezet pénzét nőkre, alkoholra és kocsikra költ. A sorozat főszereplője Sterling Archer, a világ legveszélyesebb kéme. Bár mesteri szinten űzi hivatását, egoista bunkó, akit csak az érdekel, hogy a zsarnoki anyja által vezetett kémszervezet pénzét nőkre, alkoholra és kocsikra költse. Sorozatok: humor/musical.</desc>
+    <icon src="https://www.musor.tv/img/normal/1/110/Archer_XI_2_.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324022000 +0100" stop="20210324025000 +0100" channel="Comedy Central">
+    <title lang="hu">Arcok harca II./7.</title>
+    <desc lang="hu">Jimmy Carr és Katherine Ryan vetélkedőjében különböző pároknak kell mindenféle arcokat véleményeznie, amivel esélyt kapnak több ezer font megnyerésére. Jimmy Carr és Katherine Ryan vetélkedőjében különböző pároknak kell mindenféle arcokat véleményeznie, amivel esélyt kapnak több ezer font megnyerésére. Szórakozás: talk-show/kvízműsor.</desc>
+    <icon src="https://www.musor.tv/img/normal/162/16216/Arcok_harca_II_7_.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324025000 +0100" stop="20210324031000 +0100" channel="Comedy Central">
+    <title lang="hu">Arcok harca II./8.</title>
+    <desc lang="hu">Jimmy Carr és Katherine Ryan vetélkedőjében különböző pároknak kell mindenféle arcokat véleményeznie, amivel esélyt kapnak több ezer font megnyerésére. Jimmy Carr és Katherine Ryan vetélkedőjében különböző pároknak kell mindenféle arcokat véleményeznie, amivel esélyt kapnak több ezer font megnyerésére. Szórakozás: talk-show/kvízműsor.</desc>
+    <icon src="https://www.musor.tv/img/normal/162/16216/Arcok_harca_II_8_.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324031000 +0100" stop="20210324034000 +0100" channel="Comedy Central">
+    <title lang="hu">Arcok harca II./9.</title>
+    <desc lang="hu">Jimmy Carr és Katherine Ryan vetélkedőjében különböző pároknak kell mindenféle arcokat véleményeznie, amivel esélyt kapnak több ezer font megnyerésére. Jimmy Carr és Katherine Ryan vetélkedőjében különböző pároknak kell mindenféle arcokat véleményeznie, amivel esélyt kapnak több ezer font megnyerésére. Szórakozás: talk-show/kvízműsor.</desc>
+    <icon src="https://www.musor.tv/img/normal/162/16216/Arcok_harca_II_9_.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324034000 +0100" stop="20210324040500 +0100" channel="Comedy Central">
+    <title lang="hu">Broad City V./4.</title>
+    <sub-title lang="hu">amerikai vígjátéksorozat,2019</sub-title>
+    <desc lang="hu">Ilana rájön Jaimé szörnyű titkára; Abbi igyekszik előrelépni ruhahajtogatóból kirakat művésszé a munkahelyén. Ilana rájön Jaimé szörnyű titkára; Abbi igyekszik előrelépni ruhahajtogatóból kirakat művésszé a munkahelyén. Sorozatok: humor/musical.</desc>
+    <icon src="https://www.musor.tv/img/normal/45/4505/Broad_City_V_4_.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324040500 +0100" stop="20210324043000 +0100" channel="Comedy Central">
+    <title lang="hu">Broad City V./5.</title>
+    <sub-title lang="hu">amerikai vígjátéksorozat,2019</sub-title>
+    <desc lang="hu">Abbi meghívást kap egy menő eseményére a Modern Művészetek Múzeumába; Ilana és Lincoln egyéves kapcsolati szerződést köt. Abbi meghívást kap egy menő eseményére a Modern Művészetek Múzeumába; Ilana és Lincoln egyéves kapcsolati szerződést köt. Sorozatok: humor/musical.</desc>
+    <icon src="https://www.musor.tv/img/normal/45/4505/Broad_City_V_5_.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324043000 +0100" stop="20210324050000 +0100" channel="Comedy Central">
+    <title lang="hu">South Park II./14.</title>
+    <sub-title lang="hu">amerikai rajzfilmsorozat</sub-title>
+    <desc lang="hu">Chef-segély Chefet perelik nem kevesebb, mint 2 millió dollárra. Ezért a többiek segély koncertet szerveznek neki, ahol hatalmas sztárok lépnek fel. Chef-segély. Chefet perelik nem kevesebb, mint 2 millió dollárra. Ezért a többiek segély koncertet szerveznek neki, ahol hatalmas sztárok lépnek fel. Sorozatok: humor/musical.</desc>
+    <icon src="https://www.musor.tv/img/normal/1/116/South_Park_II_14_.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324050000 +0100" stop="20210324052500 +0100" channel="Comedy Central">
+    <title lang="hu">Egy kapcsolat szabályai VII./7.</title>
+    <sub-title lang="hu">amerikai vígjátéksorozat,2013</sub-title>
+    <desc lang="hu">Ebben az új vígjátéksorozatban nyomon követhetjük egy kedves házaspár, egy friss jegyespár és egy elégedett agglegény egyedülálló barátságát, miként érvényesülnek a párkapcsolatok útvesztőjében. Rendezte: Ted Wass Főszerep. Ebben az új vígjátéksorozatban nyomon követhetjük egy kedves házaspár, egy friss jegyespár és egy elégedett agglegény egyedülálló barátságát, miként érvényesülnek a párkapcsolatok útvesztőjében. Sorozatok: humor/musical.</desc>
+    <credits>
+      <director>Ted Wass</director>
+      <actor>Megyn Price,Patrick Warburton,Bianca Kajlich,Oliver Hudson,David Spade,Adhir Kalyan</actor>
+    </credits>
+    <icon src="https://www.musor.tv/img/normal/20/2008/Egy_kapcsolat_szabalyai_VII_7_.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324052500 +0100" stop="20210324055500 +0100" channel="Comedy Central">
+    <title lang="hu">Egy kapcsolat szabályai VII./8.</title>
+    <sub-title lang="hu">amerikai vígjátéksorozat,2013</sub-title>
+    <desc lang="hu">Ebben az új vígjátéksorozatban nyomon követhetjük egy kedves házaspár, egy friss jegyespár és egy elégedett agglegény egyedülálló barátságát, miként érvényesülnek a párkapcsolatok útvesztőjében. Rendezte: Ted Wass Főszerep. Ebben az új vígjátéksorozatban nyomon követhetjük egy kedves házaspár, egy friss jegyespár és egy elégedett agglegény egyedülálló barátságát, miként érvényesülnek a párkapcsolatok útvesztőjében. Sorozatok: humor/musical.</desc>
+    <credits>
+      <director>Ted Wass</director>
+      <actor>Megyn Price,Patrick Warburton,Bianca Kajlich,Oliver Hudson,David Spade,Adhir Kalyan</actor>
+    </credits>
+    <icon src="https://www.musor.tv/img/normal/20/2008/Egy_kapcsolat_szabalyai_VII_8_.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324055500 +0100" stop="20210324062500 +0100" channel="Comedy Central">
+    <title lang="hu">Egy kapcsolat szabályai VII./9.</title>
+    <sub-title lang="hu">amerikai vígjátéksorozat,2013</sub-title>
+    <desc lang="hu">Ebben az új vígjátéksorozatban nyomon követhetjük egy kedves házaspár, egy friss jegyespár és egy elégedett agglegény egyedülálló barátságát, miként érvényesülnek a párkapcsolatok útvesztőjében. Rendezte: Ted Wass Főszerep. Ebben az új vígjátéksorozatban nyomon követhetjük egy kedves házaspár, egy friss jegyespár és egy elégedett agglegény egyedülálló barátságát, miként érvényesülnek a párkapcsolatok útvesztőjében. Sorozatok: humor/musical.</desc>
+    <credits>
+      <director>Ted Wass</director>
+      <actor>Megyn Price,Patrick Warburton,Bianca Kajlich,Oliver Hudson,David Spade,Adhir Kalyan</actor>
+    </credits>
+    <icon src="https://www.musor.tv/img/normal/20/2008/Egy_kapcsolat_szabalyai_VII_9_.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324062500 +0100" stop="20210324065500 +0100" channel="Comedy Central">
+    <title lang="hu">A Goldberg család V./11.</title>
+    <sub-title lang="hu">amerikai vígjátéksorozat,2017-2018</sub-title>
+    <desc lang="hu">A '80-as években még Reagan lakott a Fehér Házban, a plázák tele voltak farmerrel és neonszínekkel, és Goldbergék nagylábon éltek. Méretes videokamerájával felszerelkezve a 11 éves különc, Adam, mindenféle őrültségnek lesz szemt. A '80-as években még Reagan lakott a Fehér Házban, a plázák tele voltak farmerrel és neonszínekkel, és Goldbergék nagylábon éltek. Méretes videokamerájával felszerelkezve a 11 éves különc, Adam, mindenféle őrültségnek lesz szemtanúja, miközben lefilmezi folyton civódó, de szerető családját: a gyerekeit a széltől is óvó, minden lében kanál anyját, lobbanékony apját, lázadozó nővérét, folyton aggodalmaskodó bátyját és szuperlaza nagyapját. Sorozatok: humor/musical.</desc>
+    <icon src="https://www.musor.tv/img/normal/86/8653/A_Goldberg_csalad_V_11_.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324065500 +0100" stop="20210324072000 +0100" channel="Comedy Central">
+    <title lang="hu">A Goldberg család V./12.</title>
+    <sub-title lang="hu">amerikai vígjátéksorozat,2017-2018</sub-title>
+    <desc lang="hu">A '80-as években még Reagan lakott a Fehér Házban, a plázák tele voltak farmerrel és neonszínekkel, és Goldbergék nagylábon éltek. Méretes videokamerájával felszerelkezve a 11 éves különc, Adam, mindenféle őrültségnek lesz szemt. A '80-as években még Reagan lakott a Fehér Házban, a plázák tele voltak farmerrel és neonszínekkel, és Goldbergék nagylábon éltek. Méretes videokamerájával felszerelkezve a 11 éves különc, Adam, mindenféle őrültségnek lesz szemtanúja, miközben lefilmezi folyton civódó, de szerető családját: a gyerekeit a széltől is óvó, minden lében kanál anyját, lobbanékony apját, lázadozó nővérét, folyton aggodalmaskodó bátyját és szuperlaza nagyapját. Sorozatok: humor/musical.</desc>
+    <icon src="https://www.musor.tv/img/normal/86/8653/A_Goldberg_csalad_V_12_.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324072000 +0100" stop="20210324075000 +0100" channel="Comedy Central">
+    <title lang="hu">A Goldberg család V./13.</title>
+    <sub-title lang="hu">amerikai vígjátéksorozat,2017-2018</sub-title>
+    <desc lang="hu">A '80-as években még Reagan lakott a Fehér Házban, a plázák tele voltak farmerrel és neonszínekkel, és Goldbergék nagylábon éltek. Méretes videokamerájával felszerelkezve a 11 éves különc, Adam, mindenféle őrültségnek lesz szemt. A '80-as években még Reagan lakott a Fehér Házban, a plázák tele voltak farmerrel és neonszínekkel, és Goldbergék nagylábon éltek. Méretes videokamerájával felszerelkezve a 11 éves különc, Adam, mindenféle őrültségnek lesz szemtanúja, miközben lefilmezi folyton civódó, de szerető családját: a gyerekeit a széltől is óvó, minden lében kanál anyját, lobbanékony apját, lázadozó nővérét, folyton aggodalmaskodó bátyját és szuperlaza nagyapját. Sorozatok: humor/musical.</desc>
+    <icon src="https://www.musor.tv/img/normal/86/8653/A_Goldberg_csalad_V_13_.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324075000 +0100" stop="20210324081000 +0100" channel="Comedy Central">
+    <title lang="hu">Agymenők XII./24.</title>
+    <sub-title lang="hu">amerikai vígjátéksorozat,2018</sub-title>
+    <desc lang="hu">(THE BIG BANG THEORY). Sorozatok: humor/musical.</desc>
+    <icon src="https://www.musor.tv/img/normal/1/109/Agymenok_XII_24_.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324081000 +0100" stop="20210324083500 +0100" channel="Comedy Central">
+    <title lang="hu">Agymenők I./1.</title>
+    <sub-title lang="hu">amerikai vígjátéksorozat,2007-2008</sub-title>
+    <desc lang="hu">Az új szomszéd Leonard és Sheldon, a két briliáns elméleti fizikus életében üdítő újdonságként hat, hogy a szomszéd lakásba egy csinos lány költözik. Penny felszolgálóként dolgozik egy étteremben, és szinte semmit nem ért a. Az új szomszéd. Leonard és Sheldon, a két briliáns elméleti fizikus életében üdítő újdonságként hat, hogy a szomszéd lakásba egy csinos lány költözik. Penny felszolgálóként dolgozik egy étteremben, és szinte semmit nem ért a fiúk bonyolult tudományos fejtegetéseiből, ám annyi bizonyos számára, hogy a két fiú sem tud semmit a való világ dolgairól és a hétköznapi életről. Sorozatok: humor/musical.</desc>
+    <credits>
+      <actor>Johnny Galecki</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kunal Nayyar</actor>
+    </credits>
+    <icon src="https://www.musor.tv/img/normal/1/109/Agymenok_I_1_.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324083500 +0100" stop="20210324090000 +0100" channel="Comedy Central">
+    <title lang="hu">Agymenők I./2.</title>
+    <sub-title lang="hu">amerikai vígjátéksorozat,2007-2008</sub-title>
+    <desc lang="hu">Rendmánia A rendmániás és mindent egy adott rendszer szerint intéző Sheldon teljesen kiborul, amikor meglátja Penny rendetlen lakását. Éjszaka a két fiú beoson Penny lakásába, rendet raknak és kitakarítanak, amitől viszont Penny bor. Rendmánia. A rendmániás és mindent egy adott rendszer szerint intéző Sheldon teljesen kiborul, amikor meglátja Penny rendetlen lakását. Éjszaka a két fiú beoson Penny lakásába, rendet raknak és kitakarítanak, amitől viszont Penny borul ki másnap. Sorozatok: humor/musical.</desc>
+    <credits>
+      <actor>Johnny Galecki</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kunal Nayyar</actor>
+    </credits>
+    <icon src="https://www.musor.tv/img/normal/1/109/Agymenok_I_2_.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324090000 +0100" stop="20210324092500 +0100" channel="Comedy Central">
+    <title lang="hu">Agymenők I./4.</title>
+    <sub-title lang="hu">amerikai vígjátéksorozat,2007-2008</sub-title>
+    <desc lang="hu">Kirúgva Sheldon az egyetemi estélyen lekicsinylően beszél főnöke tudományos teljesítményéről, amiért természetesen állás nélkül marad. Otthon mindenféle kísérleteket végez a saját szórakoztatására, mígnem megjelenik az anyj. Kirúgva. Sheldon az egyetemi estélyen lekicsinylően beszél főnöke tudományos teljesítményéről, amiért természetesen állás nélkül marad. Otthon mindenféle kísérleteket végez a saját szórakoztatására, mígnem megjelenik az anyja, és elintézi, hogy visszavegyék. Sorozatok: humor/musical.</desc>
+    <credits>
+      <actor>Johnny Galecki</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kunal Nayyar</actor>
+    </credits>
+    <icon src="https://www.musor.tv/img/normal/1/109/Agymenok_I_4_.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324092500 +0100" stop="20210324095000 +0100" channel="Comedy Central">
+    <title lang="hu">Egy kapcsolat szabályai VII./10.</title>
+    <sub-title lang="hu">amerikai vígjátéksorozat,2013</sub-title>
+    <desc lang="hu">Ebben az új vígjátéksorozatban nyomon követhetjük egy kedves házaspár, egy friss jegyespár és egy elégedett agglegény egyedülálló barátságát, miként érvényesülnek a párkapcsolatok útvesztőjében. Rendezte: Ted Wass Főszerep. Ebben az új vígjátéksorozatban nyomon követhetjük egy kedves házaspár, egy friss jegyespár és egy elégedett agglegény egyedülálló barátságát, miként érvényesülnek a párkapcsolatok útvesztőjében. Sorozatok: humor/musical.</desc>
+    <credits>
+      <director>Ted Wass</director>
+      <actor>Megyn Price,Patrick Warburton,Bianca Kajlich,Oliver Hudson,David Spade,Adhir Kalyan</actor>
+    </credits>
+    <icon src="https://www.musor.tv/img/normal/20/2008/Egy_kapcsolat_szabalyai_VII_10_.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324095000 +0100" stop="20210324102000 +0100" channel="Comedy Central">
+    <title lang="hu">Egy kapcsolat szabályai VII./11.</title>
+    <sub-title lang="hu">amerikai vígjátéksorozat,2013</sub-title>
+    <desc lang="hu">Ebben az új vígjátéksorozatban nyomon követhetjük egy kedves házaspár, egy friss jegyespár és egy elégedett agglegény egyedülálló barátságát, miként érvényesülnek a párkapcsolatok útvesztőjében. Rendezte: Ted Wass Főszerep. Ebben az új vígjátéksorozatban nyomon követhetjük egy kedves házaspár, egy friss jegyespár és egy elégedett agglegény egyedülálló barátságát, miként érvényesülnek a párkapcsolatok útvesztőjében. Sorozatok: humor/musical.</desc>
+    <credits>
+      <director>Ted Wass</director>
+      <actor>Megyn Price,Patrick Warburton,Bianca Kajlich,Oliver Hudson,David Spade,Adhir Kalyan</actor>
+    </credits>
+    <icon src="https://www.musor.tv/img/normal/20/2008/Egy_kapcsolat_szabalyai_VII_11_.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324102000 +0100" stop="20210324105000 +0100" channel="Comedy Central">
+    <title lang="hu">Egy kapcsolat szabályai VII./12.</title>
+    <sub-title lang="hu">amerikai vígjátéksorozat,2013</sub-title>
+    <desc lang="hu">Ebben az új vígjátéksorozatban nyomon követhetjük egy kedves házaspár, egy friss jegyespár és egy elégedett agglegény egyedülálló barátságát, miként érvényesülnek a párkapcsolatok útvesztőjében. Rendezte: Ted Wass Főszerep. Ebben az új vígjátéksorozatban nyomon követhetjük egy kedves házaspár, egy friss jegyespár és egy elégedett agglegény egyedülálló barátságát, miként érvényesülnek a párkapcsolatok útvesztőjében. Sorozatok: humor/musical.</desc>
+    <credits>
+      <director>Ted Wass</director>
+      <actor>Megyn Price,Patrick Warburton,Bianca Kajlich,Oliver Hudson,David Spade,Adhir Kalyan</actor>
+    </credits>
+    <icon src="https://www.musor.tv/img/normal/20/2008/Egy_kapcsolat_szabalyai_VII_12_.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324105000 +0100" stop="20210324112000 +0100" channel="Comedy Central">
+    <title lang="hu">Modern Család VII./20.</title>
+    <sub-title lang="hu">amerikai vígjátéksorozat,2015</sub-title>
+    <desc lang="hu">A sorozat három család kalandjait követi nyomon: Jay nála sokkal fiatalabb (és dögösebb) feleségével nevelik Mannyt, Jay meleg fia, Mitch élettársával épp most fogadtak örökbe egy kislányt, miközben Jay lánya, Claire már nagycsalá. A sorozat három család kalandjait követi nyomon: Jay nála sokkal fiatalabb (és dögösebb) feleségével nevelik Mannyt, Jay meleg fia, Mitch élettársával épp most fogadtak örökbe egy kislányt, miközben Jay lánya, Claire már nagycsaládos. Sorozatok: humor/musical.</desc>
+    <icon src="https://www.musor.tv/img/normal/9/911/Modern_Csalad_VII_20_.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324112000 +0100" stop="20210324115000 +0100" channel="Comedy Central">
+    <title lang="hu">Modern Család VII./21.</title>
+    <sub-title lang="hu">amerikai vígjátéksorozat,2015</sub-title>
+    <desc lang="hu">A sorozat három család kalandjait követi nyomon: Jay nála sokkal fiatalabb (és dögösebb) feleségével nevelik Mannyt, Jay meleg fia, Mitch élettársával épp most fogadtak örökbe egy kislányt, miközben Jay lánya, Claire már nagycsalá. A sorozat három család kalandjait követi nyomon: Jay nála sokkal fiatalabb (és dögösebb) feleségével nevelik Mannyt, Jay meleg fia, Mitch élettársával épp most fogadtak örökbe egy kislányt, miközben Jay lánya, Claire már nagycsaládos. Sorozatok: humor/musical.</desc>
+    <icon src="https://www.musor.tv/img/normal/9/911/Modern_Csalad_VII_21_.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324115000 +0100" stop="20210324121000 +0100" channel="Comedy Central">
+    <title lang="hu">Modern Család VII./22.</title>
+    <sub-title lang="hu">amerikai vígjátéksorozat,2015</sub-title>
+    <desc lang="hu">A sorozat három család kalandjait követi nyomon: Jay nála sokkal fiatalabb (és dögösebb) feleségével nevelik Mannyt, Jay meleg fia, Mitch élettársával épp most fogadtak örökbe egy kislányt, miközben Jay lánya, Claire már nagycsalá. A sorozat három család kalandjait követi nyomon: Jay nála sokkal fiatalabb (és dögösebb) feleségével nevelik Mannyt, Jay meleg fia, Mitch élettársával épp most fogadtak örökbe egy kislányt, miközben Jay lánya, Claire már nagycsaládos. Sorozatok: humor/musical.</desc>
+    <icon src="https://www.musor.tv/img/normal/9/911/Modern_Csalad_VII_22_.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324121000 +0100" stop="20210324123500 +0100" channel="Comedy Central">
+    <title lang="hu">A Goldberg család V./14.</title>
+    <sub-title lang="hu">amerikai vígjátéksorozat,2017-2018</sub-title>
+    <desc lang="hu">A '80-as években még Reagan lakott a Fehér Házban, a plázák tele voltak farmerrel és neonszínekkel, és Goldbergék nagylábon éltek. Méretes videokamerájával felszerelkezve a 11 éves különc, Adam, mindenféle őrültségnek lesz szemt. A '80-as években még Reagan lakott a Fehér Házban, a plázák tele voltak farmerrel és neonszínekkel, és Goldbergék nagylábon éltek. Méretes videokamerájával felszerelkezve a 11 éves különc, Adam, mindenféle őrültségnek lesz szemtanúja, miközben lefilmezi folyton civódó, de szerető családját: a gyerekeit a széltől is óvó, minden lében kanál anyját, lobbanékony apját, lázadozó nővérét, folyton aggodalmaskodó bátyját és szuperlaza nagyapját. Sorozatok: humor/musical.</desc>
+    <icon src="https://www.musor.tv/img/normal/86/8653/A_Goldberg_csalad_V_14_.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324123500 +0100" stop="20210324130500 +0100" channel="Comedy Central">
+    <title lang="hu">A Goldberg család V./15.</title>
+    <sub-title lang="hu">amerikai vígjátéksorozat,2017-2018</sub-title>
+    <desc lang="hu">A '80-as években még Reagan lakott a Fehér Házban, a plázák tele voltak farmerrel és neonszínekkel, és Goldbergék nagylábon éltek. Méretes videokamerájával felszerelkezve a 11 éves különc, Adam, mindenféle őrültségnek lesz szemt. A '80-as években még Reagan lakott a Fehér Házban, a plázák tele voltak farmerrel és neonszínekkel, és Goldbergék nagylábon éltek. Méretes videokamerájával felszerelkezve a 11 éves különc, Adam, mindenféle őrültségnek lesz szemtanúja, miközben lefilmezi folyton civódó, de szerető családját: a gyerekeit a széltől is óvó, minden lében kanál anyját, lobbanékony apját, lázadozó nővérét, folyton aggodalmaskodó bátyját és szuperlaza nagyapját. Sorozatok: humor/musical.</desc>
+    <icon src="https://www.musor.tv/img/normal/86/8653/A_Goldberg_csalad_V_15_.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324130500 +0100" stop="20210324133500 +0100" channel="Comedy Central">
+    <title lang="hu">A Goldberg család V./16.</title>
+    <sub-title lang="hu">amerikai vígjátéksorozat,2017-2018</sub-title>
+    <desc lang="hu">A '80-as években még Reagan lakott a Fehér Házban, a plázák tele voltak farmerrel és neonszínekkel, és Goldbergék nagylábon éltek. Méretes videokamerájával felszerelkezve a 11 éves különc, Adam, mindenféle őrültségnek lesz szemt. A '80-as években még Reagan lakott a Fehér Házban, a plázák tele voltak farmerrel és neonszínekkel, és Goldbergék nagylábon éltek. Méretes videokamerájával felszerelkezve a 11 éves különc, Adam, mindenféle őrültségnek lesz szemtanúja, miközben lefilmezi folyton civódó, de szerető családját: a gyerekeit a széltől is óvó, minden lében kanál anyját, lobbanékony apját, lázadozó nővérét, folyton aggodalmaskodó bátyját és szuperlaza nagyapját. Sorozatok: humor/musical.</desc>
+    <icon src="https://www.musor.tv/img/normal/86/8653/A_Goldberg_csalad_V_16_.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324133500 +0100" stop="20210324140000 +0100" channel="Comedy Central">
+    <title lang="hu">Agymenők I./1.</title>
+    <sub-title lang="hu">amerikai vígjátéksorozat,2007-2008</sub-title>
+    <desc lang="hu">Az új szomszéd Leonard és Sheldon, a két briliáns elméleti fizikus életében üdítő újdonságként hat, hogy a szomszéd lakásba egy csinos lány költözik. Penny felszolgálóként dolgozik egy étteremben, és szinte semmit nem ért a. Az új szomszéd. Leonard és Sheldon, a két briliáns elméleti fizikus életében üdítő újdonságként hat, hogy a szomszéd lakásba egy csinos lány költözik. Penny felszolgálóként dolgozik egy étteremben, és szinte semmit nem ért a fiúk bonyolult tudományos fejtegetéseiből, ám annyi bizonyos számára, hogy a két fiú sem tud semmit a való világ dolgairól és a hétköznapi életről. Sorozatok: humor/musical.</desc>
+    <credits>
+      <actor>Johnny Galecki</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kunal Nayyar</actor>
+    </credits>
+    <icon src="https://www.musor.tv/img/normal/1/109/Agymenok_I_1_.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324140000 +0100" stop="20210324142500 +0100" channel="Comedy Central">
+    <title lang="hu">Agymenők I./2.</title>
+    <sub-title lang="hu">amerikai vígjátéksorozat,2007-2008</sub-title>
+    <desc lang="hu">Rendmánia A rendmániás és mindent egy adott rendszer szerint intéző Sheldon teljesen kiborul, amikor meglátja Penny rendetlen lakását. Éjszaka a két fiú beoson Penny lakásába, rendet raknak és kitakarítanak, amitől viszont Penny bor. Rendmánia. A rendmániás és mindent egy adott rendszer szerint intéző Sheldon teljesen kiborul, amikor meglátja Penny rendetlen lakását. Éjszaka a két fiú beoson Penny lakásába, rendet raknak és kitakarítanak, amitől viszont Penny borul ki másnap. Sorozatok: humor/musical.</desc>
+    <credits>
+      <actor>Johnny Galecki</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kunal Nayyar</actor>
+    </credits>
+    <icon src="https://www.musor.tv/img/normal/1/109/Agymenok_I_2_.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324142500 +0100" stop="20210324145000 +0100" channel="Comedy Central">
+    <title lang="hu">Agymenők I./4.</title>
+    <sub-title lang="hu">amerikai vígjátéksorozat,2007-2008</sub-title>
+    <desc lang="hu">Kirúgva Sheldon az egyetemi estélyen lekicsinylően beszél főnöke tudományos teljesítményéről, amiért természetesen állás nélkül marad. Otthon mindenféle kísérleteket végez a saját szórakoztatására, mígnem megjelenik az anyj. Kirúgva. Sheldon az egyetemi estélyen lekicsinylően beszél főnöke tudományos teljesítményéről, amiért természetesen állás nélkül marad. Otthon mindenféle kísérleteket végez a saját szórakoztatására, mígnem megjelenik az anyja, és elintézi, hogy visszavegyék. Sorozatok: humor/musical.</desc>
+    <credits>
+      <actor>Johnny Galecki</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kunal Nayyar</actor>
+    </credits>
+    <icon src="https://www.musor.tv/img/normal/1/109/Agymenok_I_4_.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324145000 +0100" stop="20210324151000 +0100" channel="Comedy Central">
+    <title lang="hu">Agymenők I./5.</title>
+    <sub-title lang="hu">amerikai vígjátéksorozat,2007-2008</sub-title>
+    <desc lang="hu">Az egyéjszakás kaland Leonard együtt tölti az éjszakát kutatótársával, Leslie-vel, ám a lány reggel közli vele, hogy csupán egy éjszakás kalandnak tekinti a történteket. Leonardot lesújtja a dolog. Főszereplők: Johnny Galecki, J. Az egyéjszakás kaland. Leonard együtt tölti az éjszakát kutatótársával, Leslie-vel, ám a lány reggel közli vele, hogy csupán egy éjszakás kalandnak tekinti a történteket. Leonardot lesújtja a dolog. Sorozatok: humor/musical.</desc>
+    <credits>
+      <actor>Johnny Galecki</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kunal Nayyar</actor>
+    </credits>
+    <icon src="https://www.musor.tv/img/normal/1/109/Agymenok_I_5_.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324151000 +0100" stop="20210324154000 +0100" channel="Comedy Central">
+    <title lang="hu">Modern Család VIII./1.</title>
+    <sub-title lang="hu">amerikai vígjátéksorozat,2016-2017</sub-title>
+    <desc lang="hu">A sorozat három család kalandjait követi nyomon: Jay nála sokkal fiatalabb (és dögösebb) feleségével nevelik Mannyt, Jay meleg fia, Mitch élettársával épp most fogadtak örökbe egy kislányt, miközben Jay lánya, Claire már nagycsalá. A sorozat három család kalandjait követi nyomon: Jay nála sokkal fiatalabb (és dögösebb) feleségével nevelik Mannyt, Jay meleg fia, Mitch élettársával épp most fogadtak örökbe egy kislányt, miközben Jay lánya, Claire már nagycsaládos. Sorozatok: humor/musical.</desc>
+    <icon src="https://www.musor.tv/img/normal/9/911/Modern_Csalad_VIII_1_.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324154000 +0100" stop="20210324161000 +0100" channel="Comedy Central">
+    <title lang="hu">Modern Család VIII./2.</title>
+    <sub-title lang="hu">amerikai vígjátéksorozat,2016-2017</sub-title>
+    <desc lang="hu">A sorozat három család kalandjait követi nyomon: Jay nála sokkal fiatalabb (és dögösebb) feleségével nevelik Mannyt, Jay meleg fia, Mitch élettársával épp most fogadtak örökbe egy kislányt, miközben Jay lánya, Claire már nagycsalá. A sorozat három család kalandjait követi nyomon: Jay nála sokkal fiatalabb (és dögösebb) feleségével nevelik Mannyt, Jay meleg fia, Mitch élettársával épp most fogadtak örökbe egy kislányt, miközben Jay lánya, Claire már nagycsaládos. Sorozatok: humor/musical.</desc>
+    <icon src="https://www.musor.tv/img/normal/9/911/Modern_Csalad_VIII_2_.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324161000 +0100" stop="20210324164000 +0100" channel="Comedy Central">
+    <title lang="hu">Modern Család VIII./3.</title>
+    <sub-title lang="hu">amerikai vígjátéksorozat,2016-2017</sub-title>
+    <desc lang="hu">A sorozat három család kalandjait követi nyomon: Jay nála sokkal fiatalabb (és dögösebb) feleségével nevelik Mannyt, Jay meleg fia, Mitch élettársával épp most fogadtak örökbe egy kislányt, miközben Jay lánya, Claire már nagycsalá. A sorozat három család kalandjait követi nyomon: Jay nála sokkal fiatalabb (és dögösebb) feleségével nevelik Mannyt, Jay meleg fia, Mitch élettársával épp most fogadtak örökbe egy kislányt, miközben Jay lánya, Claire már nagycsaládos. Sorozatok: humor/musical.</desc>
+    <icon src="https://www.musor.tv/img/normal/9/911/Modern_Csalad_VIII_3_.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324164000 +0100" stop="20210324170500 +0100" channel="Comedy Central">
+    <title lang="hu">Family Guy X./14.</title>
+    <sub-title lang="hu">amerikai rajzfilmsorozat</sub-title>
+    <desc lang="hu">A történet egy kitalált városban, Quahog-ban játszódik, és egy diszfunkcionális családról szól. Az apa, Peter Griffin ír amerikai katolikus fizikai munkás, aki viccesen erős akcentussal beszél. Felesége - Lois - családanya, egy elők. A történet egy kitalált városban, Quahog-ban játszódik, és egy diszfunkcionális családról szól. Az apa, Peter Griffin ír amerikai katolikus fizikai munkás, aki viccesen erős akcentussal beszél. Felesége - Lois - családanya, egy előkelő család sarja. Három gyermekük van: tinédzser lányuk, Meg, szintén tinédzser fiúk Chris - aki túlsúlyos és unintelligens - és mutáns kisfiuk Tewie, aki kifejezetten ördögi teremtmény, hihetetlen szexuális érdeklődéssel, és meglepően kifinomult beszédstílussal. Sorozatok: humor/musical.</desc>
+    <icon src="https://www.musor.tv/img/normal/1/112/Family_Guy_X_14_.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324170500 +0100" stop="20210324173000 +0100" channel="Comedy Central">
+    <title lang="hu">Family Guy X./15.</title>
+    <sub-title lang="hu">amerikai rajzfilmsorozat</sub-title>
+    <desc lang="hu">A történet egy kitalált városban, Quahog-ban játszódik, és egy diszfunkcionális családról szól. Az apa, Peter Griffin ír amerikai katolikus fizikai munkás, aki viccesen erős akcentussal beszél. Felesége - Lois - családanya, egy elők. A történet egy kitalált városban, Quahog-ban játszódik, és egy diszfunkcionális családról szól. Az apa, Peter Griffin ír amerikai katolikus fizikai munkás, aki viccesen erős akcentussal beszél. Felesége - Lois - családanya, egy előkelő család sarja. Három gyermekük van: tinédzser lányuk, Meg, szintén tinédzser fiúk Chris - aki túlsúlyos és unintelligens - és mutáns kisfiuk Tewie, aki kifejezetten ördögi teremtmény, hihetetlen szexuális érdeklődéssel, és meglepően kifinomult beszédstílussal. Sorozatok: humor/musical.</desc>
+    <icon src="https://www.musor.tv/img/normal/1/112/Family_Guy_X_15_.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324173000 +0100" stop="20210324180000 +0100" channel="Comedy Central">
+    <title lang="hu">Family Guy X./16.</title>
+    <sub-title lang="hu">amerikai rajzfilmsorozat</sub-title>
+    <desc lang="hu">A történet egy kitalált városban, Quahog-ban játszódik, és egy diszfunkcionális családról szól. Az apa, Peter Griffin ír amerikai katolikus fizikai munkás, aki viccesen erős akcentussal beszél. Felesége - Lois - családanya, egy elők. A történet egy kitalált városban, Quahog-ban játszódik, és egy diszfunkcionális családról szól. Az apa, Peter Griffin ír amerikai katolikus fizikai munkás, aki viccesen erős akcentussal beszél. Felesége - Lois - családanya, egy előkelő család sarja. Három gyermekük van: tinédzser lányuk, Meg, szintén tinédzser fiúk Chris - aki túlsúlyos és unintelligens - és mutáns kisfiuk Tewie, aki kifejezetten ördögi teremtmény, hihetetlen szexuális érdeklődéssel, és meglepően kifinomult beszédstílussal. Sorozatok: humor/musical.</desc>
+    <icon src="https://www.musor.tv/img/normal/1/112/Family_Guy_X_16_.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324180000 +0100" stop="20210324182500 +0100" channel="Comedy Central">
+    <title lang="hu">Az ifjú Sheldon II./16.</title>
+    <sub-title lang="hu">amerikai vígjátéksorozat,2018</sub-title>
+    <desc lang="hu">Az ifjú Sheldon Coopernek nem volt könnyű gyerekkora kelet Texas-ban, ahol a templomba járás és az amerikai foci töltötte ki az emberek mindennapjait. Az ifjú Sheldon Coopernek nem volt könnyű gyerekkora kelet Texas-ban, ahol a templomba járás és az amerikai foci töltötte ki az emberek mindennapjait. Sorozatok: humor/musical.</desc>
+    <icon src="https://www.musor.tv/img/normal/138/13885/Az_ifju_Sheldon_II_16_.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324182500 +0100" stop="20210324185000 +0100" channel="Comedy Central">
+    <title lang="hu">Agymenők I./9.</title>
+    <sub-title lang="hu">amerikai vígjátéksorozat,2007-2008</sub-title>
+    <desc lang="hu">Elbaltázott előadás Leonard és Sheldon barátsága próbatétel elé kerül, amikor Sheldon nem akar részt venni közös kísérletük ismertetésén a fizikusok konferenciáján. Leonard egyedül megy oda, ám a közönség soraiban ott van Sh. Elbaltázott előadás. Leonard és Sheldon barátsága próbatétel elé kerül, amikor Sheldon nem akar részt venni közös kísérletük ismertetésén a fizikusok konferenciáján. Leonard egyedül megy oda, ám a közönség soraiban ott van Sheldon is, és végül vitájuk verekedésbe torkollik, amit Howard felvesz a telefonjával, és felteszi az internetre. Sorozatok: humor/musical.</desc>
+    <credits>
+      <actor>Johnny Galecki</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kunal Nayyar</actor>
+    </credits>
+    <icon src="https://www.musor.tv/img/normal/1/109/Agymenok_I_9_.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324185000 +0100" stop="20210324191000 +0100" channel="Comedy Central">
+    <title lang="hu">Agymenők I./10.</title>
+    <sub-title lang="hu">amerikai vígjátéksorozat,2007-2008</sub-title>
+    <desc lang="hu">Hazugságok útvesztője Penny elújságolja a fiúknak, hogy egy énekes szerep meghallgatására megy, és kéri őket, hogy menjenek el az előadásra. Penny szörnyű énekhangját hallva, Leonard azonnal kitalál valami hazugságot. Sheldonnak. Hazugságok útvesztője. Penny elújságolja a fiúknak, hogy egy énekes szerep meghallgatására megy, és kéri őket, hogy menjenek el az előadásra. Penny szörnyű énekhangját hallva, Leonard azonnal kitalál valami hazugságot. Sheldonnak nem tetszik Leonard könnyen átlátható hazugsága, így egy alaposan felépített, tényekkel alátámasztott új hazugságot eszel ki, amibe mindannyian belebonyolódnak. Sorozatok: humor/musical.</desc>
+    <credits>
+      <actor>Johnny Galecki</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kunal Nayyar</actor>
+    </credits>
+    <icon src="https://www.musor.tv/img/normal/1/109/Agymenok_I_10_.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324191000 +0100" stop="20210324193500 +0100" channel="Comedy Central">
+    <title lang="hu">Agymenők I./11.</title>
+    <sub-title lang="hu">amerikai vígjátéksorozat,2007-2008</sub-title>
+    <desc lang="hu">Fránya nátha Sheldon megbetegszik, és a barátai között futótűzként terjed a hír, hogy vészhelyzet van, kerülni kell a fiút, mert ilyenkor elviselhetetlen. Leonard a fiúkkal beül egy Majmok bolygója összes maratoni vetítésre, ám. Fránya nátha. Sheldon megbetegszik, és a barátai között futótűzként terjed a hír, hogy vészhelyzet van, kerülni kell a fiút, mert ilyenkor elviselhetetlen. Leonard a fiúkkal beül egy Majmok bolygója összes maratoni vetítésre, ám összetöri a szemüvegét, és kénytelen haza osonni érte. Sorozatok: humor/musical.</desc>
+    <credits>
+      <actor>Johnny Galecki</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kunal Nayyar</actor>
+    </credits>
+    <icon src="https://www.musor.tv/img/normal/1/109/Agymenok_I_11_.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324193500 +0100" stop="20210324200000 +0100" channel="Comedy Central">
+    <title lang="hu">Agymenők I./12.</title>
+    <sub-title lang="hu">amerikai vígjátéksorozat,2007-2008</sub-title>
+    <desc lang="hu">A csodagyerek Sheldon fenyegetve érzi magát, amikor főnöke megkéri, hogy mutassa meg a labort egy 15 éves csodagyereknek. Sheldon valósággal sértőnek érzi, hogy valaki okosabb lehet nála, ezért terveket sző, hogy megszabaduljon tőle. A csodagyerek. Sheldon fenyegetve érzi magát, amikor főnöke megkéri, hogy mutassa meg a labort egy 15 éves csodagyereknek. Sheldon valósággal sértőnek érzi, hogy valaki okosabb lehet nála, ezért terveket sző, hogy megszabaduljon tőle. Sorozatok: humor/musical.</desc>
+    <credits>
+      <actor>Johnny Galecki</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kunal Nayyar</actor>
+    </credits>
+    <icon src="https://www.musor.tv/img/normal/1/109/Agymenok_I_12_.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324200000 +0100" stop="20210324202500 +0100" channel="Comedy Central">
+    <title lang="hu">Agymenők I./13.</title>
+    <sub-title lang="hu">amerikai vígjátéksorozat,2007-2008</sub-title>
+    <desc lang="hu">Szellemi fölény A fizikaverseny közeledtével a fiúk tartanak egy próbajátékot. Sheldon minden kérdésre bemondja a választ még akkor is, ha nem ő lenne a válaszadó, így próbálja demonstrálni intellektuális fölényét. A fiúk nem. Szellemi fölény. A fizikaverseny közeledtével a fiúk tartanak egy próbajátékot. Sheldon minden kérdésre bemondja a választ még akkor is, ha nem ő lenne a válaszadó, így próbálja demonstrálni intellektuális fölényét. A fiúk nem hajlandóak egy csapatban indulni vele, ezért Sheldon összeállít egy csapatot olyan emberekből, akik biztosan nem konyítanak a fizikához, így nem kell versengeniük vele a válaszadásban. Azt nem tudja, hogy a ház gondnoka atomfizikus volt Ukrajnában, mielőtt az Egyesült Államokba emigrált. Sorozatok: humor/musical.</desc>
+    <credits>
+      <actor>Johnny Galecki</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kunal Nayyar</actor>
+    </credits>
+    <icon src="https://www.musor.tv/img/normal/1/109/Agymenok_I_13_.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324202500 +0100" stop="20210324205500 +0100" channel="Comedy Central">
+    <title lang="hu">Agymenők I./14.</title>
+    <sub-title lang="hu">amerikai vígjátéksorozat,2007-2008</sub-title>
+    <desc lang="hu">Az időgép Leonard egy miniatűr időgépre licitál az neten, ám a kiszállításkor kiderül, hogy egyáltalán nem miniatűr, sőt, inkább hatalmas. Penny úgy érzi, Leonard ragaszkodása a képregényekhez és sci-fi figurákhoz nagyon szán. Az időgép. Leonard egy miniatűr időgépre licitál az neten, ám a kiszállításkor kiderül, hogy egyáltalán nem miniatűr, sőt, inkább hatalmas. Penny úgy érzi, Leonard ragaszkodása a képregényekhez és sci-fi figurákhoz nagyon szánalmas, ezért a fiú elhatározza, hogy túlad rajtuk, ám amikor Penny egy srácot fogad a lakásán, meggondolja magát. Sorozatok: humor/musical.</desc>
+    <credits>
+      <actor>Johnny Galecki</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kunal Nayyar</actor>
+    </credits>
+    <icon src="https://www.musor.tv/img/normal/1/109/Agymenok_I_14_.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324205500 +0100" stop="20210324212500 +0100" channel="Comedy Central">
+    <title lang="hu">Family Guy XI./5.</title>
+    <sub-title lang="hu">amerikai rajzfilmsorozat</sub-title>
+    <desc lang="hu">A történet egy kitalált városban, Quahog-ban játszódik, és egy diszfunkcionális családról szól. Az apa, Peter Griffin ír amerikai katolikus fizikai munkás, aki viccesen erős akcentussal beszél. Felesége - Lois - családanya, egy elők. A történet egy kitalált városban, Quahog-ban játszódik, és egy diszfunkcionális családról szól. Az apa, Peter Griffin ír amerikai katolikus fizikai munkás, aki viccesen erős akcentussal beszél. Felesége - Lois - családanya, egy előkelő család sarja. Három gyermekük van: tinédzser lányuk, Meg, szintén tinédzser fiúk Chris - aki túlsúlyos és unintelligens - és mutáns kisfiuk Tewie, aki kifejezetten ördögi teremtmény, hihetetlen szexuális érdeklődéssel, és meglepően kifinomult beszédstílussal. Sorozatok: humor/musical.</desc>
+    <icon src="https://www.musor.tv/img/normal/1/112/Family_Guy_XI_5_.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324212500 +0100" stop="20210324215500 +0100" channel="Comedy Central">
+    <title lang="hu">Family Guy XI./6.</title>
+    <sub-title lang="hu">amerikai rajzfilmsorozat</sub-title>
+    <desc lang="hu">A történet egy kitalált városban, Quahog-ban játszódik, és egy diszfunkcionális családról szól. Az apa, Peter Griffin ír amerikai katolikus fizikai munkás, aki viccesen erős akcentussal beszél. Felesége - Lois - családanya, egy elők. A történet egy kitalált városban, Quahog-ban játszódik, és egy diszfunkcionális családról szól. Az apa, Peter Griffin ír amerikai katolikus fizikai munkás, aki viccesen erős akcentussal beszél. Felesége - Lois - családanya, egy előkelő család sarja. Három gyermekük van: tinédzser lányuk, Meg, szintén tinédzser fiúk Chris - aki túlsúlyos és unintelligens - és mutáns kisfiuk Tewie, aki kifejezetten ördögi teremtmény, hihetetlen szexuális érdeklődéssel, és meglepően kifinomult beszédstílussal. Sorozatok: humor/musical.</desc>
+    <icon src="https://www.musor.tv/img/normal/1/112/Family_Guy_XI_6_.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324215500 +0100" stop="20210324222500 +0100" channel="Comedy Central">
+    <title lang="hu">Family Guy XI./7.</title>
+    <sub-title lang="hu">amerikai rajzfilmsorozat</sub-title>
+    <desc lang="hu">A történet egy kitalált városban, Quahog-ban játszódik, és egy diszfunkcionális családról szól. Az apa, Peter Griffin ír amerikai katolikus fizikai munkás, aki viccesen erős akcentussal beszél. Felesége - Lois - családanya, egy elők. A történet egy kitalált városban, Quahog-ban játszódik, és egy diszfunkcionális családról szól. Az apa, Peter Griffin ír amerikai katolikus fizikai munkás, aki viccesen erős akcentussal beszél. Felesége - Lois - családanya, egy előkelő család sarja. Három gyermekük van: tinédzser lányuk, Meg, szintén tinédzser fiúk Chris - aki túlsúlyos és unintelligens - és mutáns kisfiuk Tewie, aki kifejezetten ördögi teremtmény, hihetetlen szexuális érdeklődéssel, és meglepően kifinomult beszédstílussal. Sorozatok: humor/musical.</desc>
+    <icon src="https://www.musor.tv/img/normal/1/112/Family_Guy_XI_7_.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324222500 +0100" stop="20210324225500 +0100" channel="Comedy Central">
+    <title lang="hu">South Park II./15.</title>
+    <sub-title lang="hu">amerikai rajzfilmsorozat</sub-title>
+    <desc lang="hu">A kísértethal Stan kap egy halat ajándékba, amitől azonban teljesen kiveri a veríték. Pláne, amikor gyűlni kezdenek a holttestek... A srácok felfedeznek egy párhuzamos univerzumot. A kísértethal. Stan kap egy halat ajándékba, amitől azonban teljesen kiveri a veríték. Pláne, amikor gyűlni kezdenek a holttestek... A srácok felfedeznek egy párhuzamos univerzumot. Sorozatok: humor/musical.</desc>
+    <icon src="https://www.musor.tv/img/normal/1/116/South_Park_II_15_.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324225500 +0100" stop="20210324232500 +0100" channel="Comedy Central">
+    <title lang="hu">Archer XI./3.</title>
+    <desc lang="hu">A sorozat főszereplője Sterling Archer, a világ legveszélyesebb kéme. Bár mesteri szinten űzi hivatását, egoista bunkó, akit csak az érdekel, hogy a zsarnoki anyja által vezetett kémszervezet pénzét nőkre, alkoholra és kocsikra költ. A sorozat főszereplője Sterling Archer, a világ legveszélyesebb kéme. Bár mesteri szinten űzi hivatását, egoista bunkó, akit csak az érdekel, hogy a zsarnoki anyja által vezetett kémszervezet pénzét nőkre, alkoholra és kocsikra költse. Sorozatok: humor/musical.</desc>
+    <icon src="https://www.musor.tv/img/normal/1/110/Archer_XI_3_.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324232500 +0100" stop="20210324235500 +0100" channel="Comedy Central">
+    <title lang="hu">Brickleberry II./2.</title>
+    <desc lang="hu">Egy csapat semmirekellő vadőr a nemzeti parkjuk bezárásával néznek szembe, amikor feltűnik egy új vadőr, aki megváltoztat mindent és mindenkit, ezzel segít megmenteni a parkot. Egy csapat semmirekellő vadőr a nemzeti parkjuk bezárásával néznek szembe, amikor feltűnik egy új vadőr, aki megváltoztat mindent és mindenkit, ezzel segít megmenteni a parkot. Sorozatok: humor/musical.</desc>
+    <icon src="https://www.musor.tv/img/normal/13/1351/Brickleberry_II_2_.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324235500 +0100" stop="20210325002500 +0100" channel="Comedy Central">
+    <title lang="hu">Egy kapcsolat szabályai VII./10.</title>
+    <sub-title lang="hu">amerikai vígjátéksorozat,2013</sub-title>
+    <desc lang="hu">Ebben az új vígjátéksorozatban nyomon követhetjük egy kedves házaspár, egy friss jegyespár és egy elégedett agglegény egyedülálló barátságát, miként érvényesülnek a párkapcsolatok útvesztőjében. Rendezte: Ted Wass Főszerep. Ebben az új vígjátéksorozatban nyomon követhetjük egy kedves házaspár, egy friss jegyespár és egy elégedett agglegény egyedülálló barátságát, miként érvényesülnek a párkapcsolatok útvesztőjében. Sorozatok: humor/musical.</desc>
+    <credits>
+      <director>Ted Wass</director>
+      <actor>Megyn Price,Patrick Warburton,Bianca Kajlich,Oliver Hudson,David Spade,Adhir Kalyan</actor>
+    </credits>
+    <icon src="https://www.musor.tv/img/normal/20/2008/Egy_kapcsolat_szabalyai_VII_10_.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324010500 +0100" stop="20210324015000 +0100" channel="Viasat 3 (HD)">
+    <title lang="hu">Doktor House VII./5.</title>
+    <sub-title lang="hu">amerikai drámasorozat,2010</sub-title>
+    <desc lang="hu">Dr. Gregory House zord külseje és mogorva stílusa első látásra nem éppen bizalomgerjesztő. A különc orvos határozott elve ráadásul a következőképpen hangzik: a betegséget kell kezelni és nem a beteget, hiszen a betegeket. Dr. Gregory House zord külseje és mogorva stílusa első látásra nem éppen bizalomgerjesztő. A különc orvos határozott elve ráadásul a következőképpen hangzik: a betegséget kell kezelni és nem a beteget, hiszen a betegeket csak arra "találták ki", hogy az orvosok munkáját nehezítsék. Öntörvényű, renitens alak, de kétségtelenül hatalmas szaktekintély. Kis csapata csupa lelkes és ígéretes fiatal orvosból áll, akiket ő maga válogatott ki - persze sajátságos kritériumok alapján. Számára egy dolog fontos igazán: hideg fejjel megoldani az ügyet, vagyis felfedni a betegség mivoltát és bizonyítást nyerni. S még egy fontos információ Doktor House-ról: Igyekezz őt nem megzavarni délután egy óra körül, kedvenc kórházsorozata közben. Sorozatok: dráma/melodráma.</desc>
+    <credits>
+      <actor>Hugh Laurie,Robert Sean  Leonard,Lisa Edelstein,Olivia Wilde,Epps Omar,Peter Jacobson</actor>
+    </credits>
+    <icon src="https://www.musor.tv/img/normal/7/739/Doktor_House_VII_5_.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324015000 +0100" stop="20210324023500 +0100" channel="Viasat 3 (HD)">
+    <title lang="hu">A mentalista V./22.</title>
+    <sub-title lang="hu">amerikai krimisorozat,2012</sub-title>
+    <desc lang="hu">Megölnek egy fiatal nőt, és elrabolják a kislányát. A módszer Red Johnt idézi, és Jane biztos abban, hogy a sorozatgyilkos a tettes. A nyomok az ő fiatalkorához vezetnek vissza, ugyanis Jane ismerte az áldozatot. Ezú. Megölnek egy fiatal nőt, és elrabolják a kislányát. A módszer Red Johnt idézi, és Jane biztos abban, hogy a sorozatgyilkos a tettes. A nyomok az ő fiatalkorához vezetnek vissza, ugyanis Jane ismerte az áldozatot. Ezúttal azonban egy bűntársa is akad a tettesnek, akit kézre is kerítenek, de az előzőkhöz hasonlóan nem jut idejük kihallgatni, mert a nő megöli magát. Átad ellenben egy lemezt Jane-nek, melyen Red John üzenete van. Sorozatok: krimi/akció/kaland.</desc>
+    <credits>
+      <director>Bruno Heller</director>
+      <actor>Simon  Baker,Robin  Tunney</actor>
+    </credits>
+    <icon src="https://www.musor.tv/img/normal/0/32/A_mentalista_V_22_.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324023500 +0100" stop="20210324031500 +0100" channel="Viasat 3 (HD)">
+    <title lang="hu">Szívek szállodája III./18.</title>
+    <sub-title lang="hu">amerikai tévéfilmsorozat,2002</sub-title>
+    <desc lang="hu">Rory nagyapja öröm-vacsoráján jelenti be, hogy a Yale-re megy. Lorelai születésnapjára készülődik a fél város. Rory a lehető legóriásibb pizzát készítteti el a helyi olasz vendéglőssel, s ezzel vérig sérti Sookie-t, aki terhess�. Rory nagyapja öröm-vacsoráján jelenti be, hogy a Yale-re megy. Lorelai születésnapjára készülődik a fél város. Rory a lehető legóriásibb pizzát készítteti el a helyi olasz vendéglőssel, s ezzel vérig sérti Sookie-t, aki terhessége miatt különösen érzékeny. Emily fél, hogy miután megszűnt az egyezségük, lánya és unokája nem jön többé a pénteki vacsorára.. Sorozatok: dráma/melodráma.</desc>
+    <credits>
+      <director>Lesli Linka Glatter</director>
+      <director>Sarah Pia Anderson</director>
+      <director>Jamie Babbit</director>
+      <director>Robert Berlinger</director>
+      <director>Dennis Erdman</director>
+      <actor>Lauren Graham,Alexis Bledel,Edward Herrmann,Kelly Bishop,Melissa McCarthy</actor>
+    </credits>
+    <icon src="https://www.musor.tv/img/normal/1/172/Szivek_szallodaja_III_18_.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324031500 +0100" stop="20210324040000 +0100" channel="Viasat 3 (HD)">
+    <title lang="hu">Szívek szállodája III./19.</title>
+    <sub-title lang="hu">amerikai tévéfilmsorozat,2002</sub-title>
+    <desc lang="hu">Lorelai az első Chilton Klub gyűlésen találkozik a közömbösnek mutatkozó Maxszel, majd nem sokkal később tanúja a meghitten csevegő Luke és Nicole kettősének. Rory nehezen dolgozza fel, hogy Jess elhallgatta előle: kirúgták az iskol. Lorelai az első Chilton Klub gyűlésen találkozik a közömbösnek mutatkozó Maxszel, majd nem sokkal később tanúja a meghitten csevegő Luke és Nicole kettősének. Rory nehezen dolgozza fel, hogy Jess elhallgatta előle: kirúgták az iskolából. Lane az első koncertjükön túl sokat iszik, és telefonon mindent meggyón az anyjának.. Sorozatok: dráma/melodráma.</desc>
+    <credits>
+      <director>Lesli Linka Glatter</director>
+      <director>Sarah Pia Anderson</director>
+      <director>Jamie Babbit</director>
+      <director>Robert Berlinger</director>
+      <director>Dennis Erdman</director>
+      <actor>Lauren Graham,Alexis Bledel,Edward Herrmann,Kelly Bishop,Melissa McCarthy</actor>
+    </credits>
+    <icon src="https://www.musor.tv/img/normal/1/172/Szivek_szallodaja_III_19_.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324040000 +0100" stop="20210324043000 +0100" channel="Viasat 3 (HD)">
+    <title lang="hu">Sikersorozat V./7.</title>
+    <sub-title lang="hu">amerikai-angol vígjátéksorozat,2017</sub-title>
+    <desc lang="hu">Sean és Beverly megtudja, hogy Matt magyarázat nélkül mondott le az új showról, amit direkt az ő számára írtak. Így most kénytelenek kitalálni, hogy mit kezdjenek az életükkel és a karrierjükkel Matt nélkül. Carol folytatj. Sean és Beverly megtudja, hogy Matt magyarázat nélkül mondott le az új showról, amit direkt az ő számára írtak. Így most kénytelenek kitalálni, hogy mit kezdjenek az életükkel és a karrierjükkel Matt nélkül. Carol folytatja a Helennel és a tévéhálózattal szemben indított perét. De egy találkozás a bírósági meghallgatásán teljesen váratlan irányba viheti az életét. Sorozatok: humor/musical.</desc>
+    <credits>
+      <director>David Crane</director>
+      <actor>Tamsin Greig,Stephen Mangan,Matt LeBlanc</actor>
+    </credits>
+    <icon src="https://www.musor.tv/img/normal/34/3432/Sikersorozat_V_7_.jpg" />
+    <rating system="HU">
+      <value>16+</value>
+    </rating>
+  </programme>
+  <programme start="20210324043000 +0100" stop="20210324050000 +0100" channel="Viasat 3 (HD)">
+    <title lang="hu">Teleshopping</title>
+    <icon src="https://www.musor.tv/img/normal/68/6832/Teleshopping.jpg" />
+  </programme>
+  <programme start="20210324050000 +0100" stop="20210324053000 +0100" channel="Viasat 3 (HD)">
+    <title lang="hu">Jóbarátok IV./14.</title>
+    <sub-title lang="hu">amerikai vígjátéksorozat,1997</sub-title>
+    <desc lang="hu">Joey a filmforgatás első napján elalszik, és még zuhanyozni sincs ideje, pedig egy három napos horgász-túráról érkezett vissza. Mindent megtesz, hogy időben odaérjen... Rachel vonzó ügyfele, Joshua randevút kér Rachel-től, de ő má. Joey a filmforgatás első napján elalszik, és még zuhanyozni sincs ideje, pedig egy három napos horgász-túráról érkezett vissza. Mindent megtesz, hogy időben odaérjen... Rachel vonzó ügyfele, Joshua randevút kér Rachel-től, de ő már elígérkezett a főnöke unokahúgával operába. Sikerül rávennie Ross-t, hogy menjen el az unokahúggal, azalatt ő találkozhat Joshuával.. Sorozatok: humor/musical.</desc>
+    <credits>
+      <director>Robby Benson</director>
+      <director>Peter Bonerz</director>
+      <director>Terry Hughes</director>
+      <director>Michael Lembeck</director>
+      <director>Paul Lazarus</director>
+      <actor>Jennifer Aniston,Courteney Cox,Lisa Kudrow,Matt LeBlanc,Matthew Perry,David Schwimmer</actor>
+    </credits>
+    <icon src="https://www.musor.tv/img/normal/1/182/Jobaratok_IV_14_.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324053000 +0100" stop="20210324060000 +0100" channel="Viasat 3 (HD)">
+    <title lang="hu">Jóbarátok IV./15.</title>
+    <sub-title lang="hu">amerikai vígjátéksorozat,1997</sub-title>
+    <desc lang="hu">Chandler meglepetéssel veszi tudomásul kissé bosszantó volt barátnője, Janice felbukkanását, aki nemrég vált el. Janice azonnal átveszi Chandler életének irányítását, így a fiú kénytelen azt hazudni, hogy Jemenbe kell utaznia üzl. Chandler meglepetéssel veszi tudomásul kissé bosszantó volt barátnője, Janice felbukkanását, aki nemrég vált el. Janice azonnal átveszi Chandler életének irányítását, így a fiú kénytelen azt hazudni, hogy Jemenbe kell utaznia üzleti ügyben. Janice azonban ragaszkodik hozzá, hogy kikísérje Chandler-t a reptérre, aki végül kénytelen megvenni a repülőjegyet Jemenbe, és felszállni a gépre.. Sorozatok: humor/musical.</desc>
+    <credits>
+      <director>Robby Benson</director>
+      <director>Peter Bonerz</director>
+      <director>Terry Hughes</director>
+      <director>Michael Lembeck</director>
+      <director>Paul Lazarus</director>
+      <actor>Jennifer Aniston,Courteney Cox,Lisa Kudrow,Matt LeBlanc,Matthew Perry,David Schwimmer</actor>
+    </credits>
+    <icon src="https://www.musor.tv/img/normal/1/182/Jobaratok_IV_15_.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324060000 +0100" stop="20210324063000 +0100" channel="Viasat 3 (HD)">
+    <title lang="hu">Jóbarátok IV./16.</title>
+    <sub-title lang="hu">amerikai vígjátéksorozat,1997</sub-title>
+    <desc lang="hu">Ross szeretne egy romantikus estét eltölteni Emily-vel, új barátnőjével a lány utolsó estéjén, mielőtt visszatér Angliába. Rachel azonban keresztülhúzza a számítását, mert nagy búcsúpartit rendez a lánynak. Rachel valójában az. Ross szeretne egy romantikus estét eltölteni Emily-vel, új barátnőjével a lány utolsó estéjén, mielőtt visszatér Angliába. Rachel azonban keresztülhúzza a számítását, mert nagy búcsúpartit rendez a lánynak. Rachel valójában azért szervezi a partit, hogy elcsábíthassa Joshuát.. Sorozatok: humor/musical.</desc>
+    <credits>
+      <director>Robby Benson</director>
+      <director>Peter Bonerz</director>
+      <director>Terry Hughes</director>
+      <director>Michael Lembeck</director>
+      <director>Paul Lazarus</director>
+      <actor>Jennifer Aniston,Courteney Cox,Lisa Kudrow,Matt LeBlanc,Matthew Perry,David Schwimmer</actor>
+    </credits>
+    <icon src="https://www.musor.tv/img/normal/1/182/Jobaratok_IV_16_.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324063000 +0100" stop="20210324070000 +0100" channel="Viasat 3 (HD)">
+    <title lang="hu">Jóbarátok IV./17.</title>
+    <sub-title lang="hu">amerikai vígjátéksorozat,1997</sub-title>
+    <desc lang="hu">Monica tanácsára Ross a repülőtéren bevallja Emily-nek, hogy szerelmes belé, de a várva-várt hatás elmarad. Később telefonon közli Ross-szal, hogy mást szeret, mire Ross azonnal Londonba repül. De nem találja otthon a lányt, mert ő m. Monica tanácsára Ross a repülőtéren bevallja Emily-nek, hogy szerelmes belé, de a várva-várt hatás elmarad. Később telefonon közli Ross-szal, hogy mást szeret, mire Ross azonnal Londonba repül. De nem találja otthon a lányt, mert ő már közben visszament New York-ba, hogy megmondja Ross-nak, mégis őt szereti. Eközben Chandler és Joey napokig nem kapcsolja ki a tévéjét, attól tartva, hogy elveszítik az ingyenes pornócsatornát, amit felfedeztek a csatornák között.. Sorozatok: humor/musical.</desc>
+    <credits>
+      <director>Robby Benson</director>
+      <director>Peter Bonerz</director>
+      <director>Terry Hughes</director>
+      <director>Michael Lembeck</director>
+      <director>Paul Lazarus</director>
+      <actor>Jennifer Aniston,Courteney Cox,Lisa Kudrow,Matt LeBlanc,Matthew Perry,David Schwimmer</actor>
+    </credits>
+    <icon src="https://www.musor.tv/img/normal/1/182/Jobaratok_IV_17_.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324070000 +0100" stop="20210324072500 +0100" channel="Viasat 3 (HD)">
+    <title lang="hu">Agymenők IV./5.</title>
+    <sub-title lang="hu">amerikai vígjátéksorozat,2010</sub-title>
+    <desc lang="hu">Sheldonnak inába száll a bátorsága, amikor Amy szeretné bemutatni az anyjának. Retteg attól, hogy ez már elkötelezettséget jelent, ezért bujkálni kezd. Leonard arra kéri Howardot, hogy beszélje rá Bern. Sheldonnak inába száll a bátorsága, amikor Amy szeretné bemutatni az anyjának. Retteg attól, hogy ez már elkötelezettséget jelent, ezért bujkálni kezd. Leonard arra kéri Howardot, hogy beszélje rá Bernadette-et, hogy hozza össze egy barátnőjével. Sorozatok: humor/musical.</desc>
+    <credits>
+      <director>Chuck Lorre</director>
+      <actor>Johnny Galecki,Jim Parsons,Kaley Cuoco</actor>
+    </credits>
+    <icon src="https://www.musor.tv/img/normal/1/109/Agymenok_IV_5_.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324072500 +0100" stop="20210324075500 +0100" channel="Viasat 3 (HD)">
+    <title lang="hu">Agymenők IV./6.</title>
+    <sub-title lang="hu">amerikai vígjátéksorozat,2010</sub-title>
+    <desc lang="hu">Raj lánytestvére átutazóban van a városban. Korábban Howard és Leonard megegyeztek, hogy egyikük sem hajt rá, de a lány Leonarddal tölti az éjszakát. Bármennyire ügyesek, Sheldon csak rájön a dologra. Raj lánytestvére átutazóban van a városban. Korábban Howard és Leonard megegyeztek, hogy egyikük sem hajt rá, de a lány Leonarddal tölti az éjszakát. Bármennyire ügyesek, Sheldon csak rájön a dologra, és noha megígéri, hogy nem mondja el, kétértelmű megjegyzéseket tesz. Sorozatok: humor/musical.</desc>
+    <credits>
+      <director>Chuck Lorre</director>
+      <actor>Johnny Galecki,Jim Parsons,Kaley Cuoco</actor>
+    </credits>
+    <icon src="https://www.musor.tv/img/normal/1/109/Agymenok_IV_6_.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324075500 +0100" stop="20210324085000 +0100" channel="Viasat 3 (HD)">
+    <title lang="hu">Dawson és a haverok VI./9.</title>
+    <sub-title lang="hu">amerikai vígjátéksorozat,2002</sub-title>
+    <desc lang="hu">A békés, kiegyensúlyozott családban élő Dawsonnak nagyon fontos a jövője. Olyan híres rendező szeretne lenni, mint Steven Spielberg. Legjobb barátnője egy lány, Joey Potter, aki szinte családtag. A békés, kiegyensúlyozott családban élő Dawsonnak nagyon fontos a jövője. Olyan híres rendező szeretne lenni, mint Steven Spielberg. Legjobb barátnője egy lány, Joey Potter, aki szinte családtag náluk, miután anyja meghalt, apja börtönben és nővére is meglehetősen zűrös. Jennifer Lindley, aki nemrég költözött nagyszüleihez, nehezen illeszkedik be az új környezetbe, ám hamar megakad rajta a jövő nagy filmesének a szeme. Negyedikük Pacey Witter, a csábítás nagymestere, ha az osztálytársainál nincs is mindig sikere, a tanárnőknél már annál inkább. A négy fiatal a kamaszkor legnehezebb időszakát élik át. Sorozatok: humor/musical.</desc>
+    <credits>
+      <actor>James Van Der Beek,Katie  Holmes,Michelle Williams,Joshua Jackson</actor>
+    </credits>
+    <icon src="https://www.musor.tv/img/normal/1/181/Dawson_es_a_haverok_VI_9_.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324085000 +0100" stop="20210324094500 +0100" channel="Viasat 3 (HD)">
+    <title lang="hu">Szívek szállodája III./20.</title>
+    <sub-title lang="hu">amerikai tévéfilmsorozat,2002</sub-title>
+    <desc lang="hu">Mikor Fran Weston meghal, Lorelai és Sookie szeretnék megvásárolni a fogadóját. Rory és Jess próbálnak közeledni egymáshoz, de még nincs erejük beszélni a problémáról. Dean eljegyzi a barátnőjét. Lane "engedélyt kap" anyjától a. Mikor Fran Weston meghal, Lorelai és Sookie szeretnék megvásárolni a fogadóját. Rory és Jess próbálnak közeledni egymáshoz, de még nincs erejük beszélni a problémáról. Dean eljegyzi a barátnőjét. Lane "engedélyt kap" anyjától a korzózásra Dave-vel.. Sorozatok: dráma/melodráma.</desc>
+    <credits>
+      <director>Lesli Linka Glatter</director>
+      <director>Sarah Pia Anderson</director>
+      <director>Jamie Babbit</director>
+      <director>Robert Berlinger</director>
+      <director>Dennis Erdman</director>
+      <actor>Lauren Graham,Alexis Bledel,Edward Herrmann,Kelly Bishop,Melissa McCarthy</actor>
+    </credits>
+    <icon src="https://www.musor.tv/img/normal/1/172/Szivek_szallodaja_III_20_.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324094500 +0100" stop="20210324104000 +0100" channel="Viasat 3 (HD)">
+    <title lang="hu">Szívek szállodája III./21.</title>
+    <sub-title lang="hu">amerikai tévéfilmsorozat,2002</sub-title>
+    <desc lang="hu">Rory nagyon ideges és feszült az érettségi vizsgák és egyéb teendők miatt. Loralai nem meri elmondani neki, hogy Jess valószínűleg végleg elment Stars Hollow-ból. Luke sejti, hogy Jess felkeresi az apját, Jimmyt Los Angelesben. Emily é. Rory nagyon ideges és feszült az érettségi vizsgák és egyéb teendők miatt. Loralai nem meri elmondani neki, hogy Jess valószínűleg végleg elment Stars Hollow-ból. Luke sejti, hogy Jess felkeresi az apját, Jimmyt Los Angelesben. Emily és Richard Rory bankettjére készülnek.. Sorozatok: dráma/melodráma.</desc>
+    <credits>
+      <director>Lesli Linka Glatter</director>
+      <director>Sarah Pia Anderson</director>
+      <director>Jamie Babbit</director>
+      <director>Robert Berlinger</director>
+      <director>Dennis Erdman</director>
+      <actor>Lauren Graham,Alexis Bledel,Edward Herrmann,Kelly Bishop,Melissa McCarthy</actor>
+    </credits>
+    <icon src="https://www.musor.tv/img/normal/1/172/Szivek_szallodaja_III_21_.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324104000 +0100" stop="20210324113500 +0100" channel="Viasat 3 (HD)">
+    <title lang="hu">Doktor House VII./6.</title>
+    <sub-title lang="hu">amerikai drámasorozat,2010</sub-title>
+    <desc lang="hu">Dr. Gregory House zord külseje és mogorva stílusa első látásra nem éppen bizalomgerjesztő. A különc orvos határozott elve ráadásul a következőképpen hangzik: a betegséget kell kezelni és nem a beteget, hiszen a betegeket csak. Dr. Gregory House zord külseje és mogorva stílusa első látásra nem éppen bizalomgerjesztő. A különc orvos határozott elve ráadásul a következőképpen hangzik: a betegséget kell kezelni és nem a beteget, hiszen a betegeket csak arra "találták ki", hogy az orvosok munkáját nehezítsék. Öntörvényű, renitens alak, de kétségtelenül hatalmas szaktekintély. Kis csapata csupa lelkes és ígéretes fiatal orvosból áll, akiket ő maga válogatott ki - persze sajátságos kritériumok alapján. Számára egy dolog fontos igazán: hideg fejjel megoldani az ügyet, vagyis felfedni a betegség mivoltát és bizonyítást nyerni. S még egy fontos információ Doktor House-ról: Igyekezz őt nem megzavarni délután egy óra körül, kedvenc kórházsorozata közben. Sorozatok: dráma/melodráma.</desc>
+    <credits>
+      <actor>Hugh Laurie,Robert Sean  Leonard,Lisa Edelstein,Olivia Wilde,Epps Omar,Peter Jacobson</actor>
+    </credits>
+    <icon src="https://www.musor.tv/img/normal/7/739/Doktor_House_VII_6_.jpg" />
+    <rating system="HU">
+      <value>16+</value>
+    </rating>
+  </programme>
+  <programme start="20210324113500 +0100" stop="20210324123500 +0100" channel="Viasat 3 (HD)">
+    <title lang="hu">Doktor House VII./7.</title>
+    <sub-title lang="hu">amerikai drámasorozat,2010</sub-title>
+    <desc lang="hu">Dr. Gregory House zord külseje és mogorva stílusa első látásra nem éppen bizalomgerjesztő. A különc orvos határozott elve ráadásul a következőképpen hangzik: a betegséget kell kezelni és nem a beteget, hiszen a betegeket c. Dr. Gregory House zord külseje és mogorva stílusa első látásra nem éppen bizalomgerjesztő. A különc orvos határozott elve ráadásul a következőképpen hangzik: a betegséget kell kezelni és nem a beteget, hiszen a betegeket csak arra "találták ki", hogy az orvosok munkáját nehezítsék. Öntörvényű, renitens alak, de kétségtelenül hatalmas szaktekintély. Kis csapata csupa lelkes és ígéretes fiatal orvosból áll, akiket ő maga válogatott ki - persze sajátságos kritériumok alapján. Számára egy dolog fontos igazán: hideg fejjel megoldani az ügyet, vagyis felfedni a betegség mivoltát és bizonyítást nyerni. S még egy fontos információ Doktor House-ról: Igyekezz őt nem megzavarni délután egy óra körül, kedvenc kórházsorozata közben. Sorozatok: dráma/melodráma.</desc>
+    <credits>
+      <actor>Hugh Laurie,Robert Sean  Leonard,Lisa Edelstein,Olivia Wilde,Epps Omar,Peter Jacobson</actor>
+    </credits>
+    <icon src="https://www.musor.tv/img/normal/7/739/Doktor_House_VII_7_.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324123500 +0100" stop="20210324132500 +0100" channel="Viasat 3 (HD)">
+    <title lang="hu">Castle VIII./9.</title>
+    <sub-title lang="hu">amerikai akcióvígjáték-sorozat,2015</sub-title>
+    <desc lang="hu">A krimi koronázatlan királya Rick Castle az egyik legsikeresebb író, akitől újabb remekműveket várnak. Csakhogy Castle alkotói válságba került, nincs egyetlen eredeti sztorija sem, ezért kapóra jön neki, amikor egy ügyben a rendő. A krimi koronázatlan királya Rick Castle az egyik legsikeresebb író, akitől újabb remekműveket várnak. Csakhogy Castle alkotói válságba került, nincs egyetlen eredeti sztorija sem, ezért kapóra jön neki, amikor egy ügyben a rendőrség a segítségét kéri. Kapcsolatai révén eléri, hogy a rendőrség tanácsadójaként részt vehessen Kate Beckett nyomozónő mellett a nyomozásokban. Ennek azonban Beckett cseppet sem örül, mert Castle idegesítően pimasz, öntelt, irányíthatatlan és gátlástalanul használja kisfiús sármját. A folyton civódó páros a kényszerű közös munka kapcsán számos ügyet megold, miközben egyre jobban megismerik egymást. Sorozatok: krimi/akció/kaland.</desc>
+    <credits>
+      <director>Andrew W. Marlowe</director>
+      <actor>Nathan Fillion,Stana Katic,Susan Sullivan</actor>
+    </credits>
+    <icon src="https://www.musor.tv/img/normal/5/522/Castle_VIII_9_.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324132500 +0100" stop="20210324142000 +0100" channel="Viasat 3 (HD)">
+    <title lang="hu">A mentalista V./22.</title>
+    <sub-title lang="hu">amerikai krimisorozat,2012</sub-title>
+    <desc lang="hu">Megölnek egy fiatal nőt, és elrabolják a kislányát. A módszer Red Johnt idézi, és Jane biztos abban, hogy a sorozatgyilkos a tettes. A nyomok az ő fiatalkorához vezetnek vissza, ugyanis Jane ismerte az áldozatot. Ezú. Megölnek egy fiatal nőt, és elrabolják a kislányát. A módszer Red Johnt idézi, és Jane biztos abban, hogy a sorozatgyilkos a tettes. A nyomok az ő fiatalkorához vezetnek vissza, ugyanis Jane ismerte az áldozatot. Ezúttal azonban egy bűntársa is akad a tettesnek, akit kézre is kerítenek, de az előzőkhöz hasonlóan nem jut idejük kihallgatni, mert a nő megöli magát. Átad ellenben egy lemezt Jane-nek, melyen Red John üzenete van. Sorozatok: krimi/akció/kaland.</desc>
+    <credits>
+      <director>Bruno Heller</director>
+      <actor>Simon  Baker,Robin  Tunney</actor>
+    </credits>
+    <icon src="https://www.musor.tv/img/normal/0/32/A_mentalista_V_22_.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324142000 +0100" stop="20210324151000 +0100" channel="Viasat 3 (HD)">
+    <title lang="hu">Doktor House VII./8.</title>
+    <sub-title lang="hu">amerikai drámasorozat,2010</sub-title>
+    <desc lang="hu">Dr. Gregory House zord külseje és mogorva stílusa első látásra nem éppen bizalomgerjesztő. A különc orvos határozott elve ráadásul a következőképpen hangzik: a betegséget kell kezelni és nem a beteget, hiszen a betegeket csa. Dr. Gregory House zord külseje és mogorva stílusa első látásra nem éppen bizalomgerjesztő. A különc orvos határozott elve ráadásul a következőképpen hangzik: a betegséget kell kezelni és nem a beteget, hiszen a betegeket csak arra "találták ki", hogy az orvosok munkáját nehezítsék. Öntörvényű, renitens alak, de kétségtelenül hatalmas szaktekintély. Kis csapata csupa lelkes és ígéretes fiatal orvosból áll, akiket ő maga válogatott ki - persze sajátságos kritériumok alapján. Számára egy dolog fontos igazán: hideg fejjel megoldani az ügyet, vagyis felfedni a betegség mivoltát és bizonyítást nyerni. S még egy fontos információ Doktor House-ról: Igyekezz őt nem megzavarni délután egy óra körül, kedvenc kórházsorozata közben. Sorozatok: dráma/melodráma.</desc>
+    <credits>
+      <actor>Hugh Laurie,Robert Sean  Leonard,Lisa Edelstein,Olivia Wilde,Epps Omar,Peter Jacobson</actor>
+    </credits>
+    <icon src="https://www.musor.tv/img/normal/7/739/Doktor_House_VII_8_.jpg" />
+    <rating system="HU">
+      <value>16+</value>
+    </rating>
+  </programme>
+  <programme start="20210324151000 +0100" stop="20210324161000 +0100" channel="Viasat 3 (HD)">
+    <title lang="hu">Doktor House VII./9.</title>
+    <sub-title lang="hu">amerikai drámasorozat,2010</sub-title>
+    <desc lang="hu">Dr. Gregory House zord külseje és mogorva stílusa első látásra nem éppen bizalomgerjesztő. A különc orvos határozott elve ráadásul a következőképpen hangzik: a betegséget kell kezelni és nem a beteget, hiszen a betegeket csa. Dr. Gregory House zord külseje és mogorva stílusa első látásra nem éppen bizalomgerjesztő. A különc orvos határozott elve ráadásul a következőképpen hangzik: a betegséget kell kezelni és nem a beteget, hiszen a betegeket csak arra "találták ki", hogy az orvosok munkáját nehezítsék. Öntörvényű, renitens alak, de kétségtelenül hatalmas szaktekintély. Kis csapata csupa lelkes és ígéretes fiatal orvosból áll, akiket ő maga válogatott ki - persze sajátságos kritériumok alapján. Számára egy dolog fontos igazán: hideg fejjel megoldani az ügyet, vagyis felfedni a betegség mivoltát és bizonyítást nyerni. S még egy fontos információ Doktor House-ról: Igyekezz őt nem megzavarni délután egy óra körül, kedvenc kórházsorozata közben. Sorozatok: dráma/melodráma.</desc>
+    <credits>
+      <actor>Hugh Laurie,Robert Sean  Leonard,Lisa Edelstein,Olivia Wilde,Epps Omar,Peter Jacobson</actor>
+    </credits>
+    <icon src="https://www.musor.tv/img/normal/7/739/Doktor_House_VII_9_.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324161000 +0100" stop="20210324170500 +0100" channel="Viasat 3 (HD)">
+    <title lang="hu">Castle VIII./10.</title>
+    <sub-title lang="hu">amerikai akcióvígjáték-sorozat,2015</sub-title>
+    <desc lang="hu">A krimi koronázatlan királya Rick Castle az egyik legsikeresebb író, akitől újabb remekműveket várnak. Csakhogy Castle alkotói válságba került, nincs egyetlen eredeti sztorija sem, ezért kapóra jön neki, amikor e. A krimi koronázatlan királya Rick Castle az egyik legsikeresebb író, akitől újabb remekműveket várnak. Csakhogy Castle alkotói válságba került, nincs egyetlen eredeti sztorija sem, ezért kapóra jön neki, amikor egy ügyben a rendőrség a segítségét kéri. Kapcsolatai révén eléri, hogy a rendőrség tanácsadójaként részt vehessen Kate Beckett nyomozónő mellett a nyomozásokban. Ennek azonban Beckett cseppet sem örül, mert Castle idegesítően pimasz, öntelt, irányíthatatlan és gátlástalanul használja kisfiús sármját. A folyton civódó páros a kényszerű közös munka kapcsán számos ügyet megold, miközben egyre jobban megismerik egymást. Sorozatok: krimi/akció/kaland.</desc>
+    <credits>
+      <director>Andrew W. Marlowe</director>
+      <actor>Nathan Fillion,Stana Katic,Susan Sullivan</actor>
+    </credits>
+    <icon src="https://www.musor.tv/img/normal/5/522/Castle_VIII_10_.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324170500 +0100" stop="20210324180000 +0100" channel="Viasat 3 (HD)">
+    <title lang="hu">A mentalista VI./1.</title>
+    <sub-title lang="hu">amerikai krimisorozat,2013</sub-title>
+    <desc lang="hu">Jane és Lisbont egy több éve eltemetett hullát találnak a sivatagban, akit az áldozat felesége eltűntként jelentett be. A férfit minden bizonnyal a pénzéért ölték meg, de hogy kik és milyen okból, egyelőre nehezen r. Jane és Lisbont egy több éve eltemetett hullát találnak a sivatagban, akit az áldozat felesége eltűntként jelentett be. A férfit minden bizonnyal a pénzéért ölték meg, de hogy kik és milyen okból, egyelőre nehezen rajzolódik ki. E közben Jane listájáról, noha a férfi nyomatékosan közli Lisbonnal, hogy senkinek ne beszéljen róla, szépen lassan az egész részlegük tudomást szerez. Ezt követően Red John elrabolja Lisbont. Sorozatok: krimi/akció/kaland.</desc>
+    <credits>
+      <director>Bruno Heller</director>
+      <actor>Simon  Baker,Robin  Tunney</actor>
+    </credits>
+    <icon src="https://www.musor.tv/img/normal/0/32/A_mentalista_VI_1_.jpg" />
+    <rating system="HU">
+      <value>16+</value>
+    </rating>
+  </programme>
+  <programme start="20210324180000 +0100" stop="20210324190000 +0100" channel="Viasat 3 (HD)">
+    <title lang="hu">Észbontók VI./3.</title>
+    <sub-title lang="hu">műveletlenségi vetélkedő,2019</sub-title>
+    <desc lang="hu">Főszereplők: Aron Kovacs. Szórakozás: talk-show/kvízműsor.</desc>
+    <credits>
+      <actor>Aron Kovacs</actor>
+    </credits>
+    <icon src="https://www.musor.tv/img/normal/47/4707/Eszbontok_VI_3_.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324190000 +0100" stop="20210324200000 +0100" channel="Viasat 3 (HD)">
+    <title lang="hu">Észbontók VI./4.</title>
+    <sub-title lang="hu">műveletlenségi vetélkedő,2019</sub-title>
+    <desc lang="hu">Főszereplők: Aron Kovacs. Szórakozás: talk-show/kvízműsor.</desc>
+    <credits>
+      <actor>Aron Kovacs</actor>
+    </credits>
+    <icon src="https://www.musor.tv/img/normal/47/4707/Eszbontok_VI_4_.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324200000 +0100" stop="20210324220000 +0100" channel="Viasat 3 (HD)">
+    <title lang="hu">Jég veled!</title>
+    <sub-title lang="hu">amerikai vígjáték,1993</sub-title>
+    <desc lang="hu">Négy mindenre elszánt jamaicai sportoló úgy dönt, hogy a négyes bobban indulnak a téli olimpián, Calgaryban. Semmi nem állhat az útjukba, nem ismernek lehetetlent és szereznek maguknak egy amerikai edzőt. Irv azonban egy cseppet sem boldo. Négy mindenre elszánt jamaicai sportoló úgy dönt, hogy a négyes bobban indulnak a téli olimpián, Calgaryban. Semmi nem állhat az útjukba, nem ismernek lehetetlent és szereznek maguknak egy amerikai edzőt. Irv azonban egy cseppet sem boldog, amikor kiderül, hogy négy teljesen kezdő atlétával áll szemben, ám rájön, itt a soha vissza nem térő nagy lehetőség: bebizonyíthatja ország-világ előtt, mire is képes ő valójában. Az ötük előtt álló út ugyan rögös egy picit, de elszántságban, kitartásban és lelkesedésben nincs hiány. Az álom valóra válik. Film: humor/musical.</desc>
+    <credits>
+      <director>Jon Turteltaub</director>
+      <actor>John Candy,Leon,Doug E. Doug,Raymond J. Barry,Rawle D. Lewis,Malik Yoba</actor>
+    </credits>
+    <icon src="https://www.musor.tv/img/normal/21/2194/Jeg_veled_.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324220000 +0100" stop="20210325003000 +0100" channel="Viasat 3 (HD)">
+    <title lang="hu">A bűn árfolyama</title>
+    <sub-title lang="hu">amerikai akciófilm, 2009</sub-title>
+    <desc lang="hu">Távolról sem feddhetetlen a világ egyik legnagyobb bankja, a luxemburgi székhelyű, IBBC. Pénzmosás, korrupció és illegális fegyverkereskedelem egyaránt tarkítja a pénzintézet illegális tevékenységeinek listáját. A bank, ha érdekei. Távolról sem feddhetetlen a világ egyik legnagyobb bankja, a luxemburgi székhelyű, IBBC. Pénzmosás, korrupció és illegális fegyverkereskedelem egyaránt tarkítja a pénzintézet illegális tevékenységeinek listáját. A bank, ha érdekei úgy kívánják, támogatja a terrorizmust és az állami puccsokat is, ráadásul saját alkalmazottait is hajlandó eltenni láb alól, ha azok túl sok információ birtokába jutnak. Film: krimi/akció/kaland.</desc>
+    <icon src="https://www.musor.tv/img/normal/27/2770/A_bun_arfolyama.jpg" />
+    <rating system="HU">
+      <value>16+</value>
+    </rating>
+  </programme>
+  <programme start="20210324004500 +0100" stop="20210324023000 +0100" channel="HBO (HD)">
+    <title lang="hu">Itt a vége</title>
+    <sub-title lang="hu">amerikai vígjáték,2013</sub-title>
+    <desc lang="hu">James Franco, a híres hollywoodi színész bulit szervez az új villájában. Persze ott van minden híresség, aki számít a film és a szórakoztatóipar világában. A buli azonban hamarosan rettegésbe csap át, amikor kint megkezdődik a vilá. James Franco, a híres hollywoodi színész bulit szervez az új villájában. Persze ott van minden híresség, aki számít a film és a szórakoztatóipar világában. A buli azonban hamarosan rettegésbe csap át, amikor kint megkezdődik a világvége, a város leég, és jön az utolsó ítélet. A nagy rettegés közepette a sztárok mind-mind másképp reagálnak a hírnevükre fittyet hányó, feltartóztathatatlan végkifejletre. Hat barát is csapdába esik a házban. Az egyre apadó készletek próbára teszik a kapcsolatukat. Film: humor/musical.</desc>
+    <credits>
+      <director>Seth Rogen</director>
+      <director>Evan Goldberg</director>
+      <actor>James Franco</actor>
+      <actor>Jonah Hill</actor>
+      <actor>Seth Rogen</actor>
+      <actor>Jay Baruchel</actor>
+      <actor>Danny McBride</actor>
+    </credits>
+    <icon src="https://www.musor.tv/img/normal/11/1127/Itt_a_vege.jpg" />
+    <rating system="HU">
+      <value>18+</value>
+    </rating>
+  </programme>
+  <programme start="20210324023000 +0100" stop="20210324030500 +0100" channel="HBO (HD)">
+    <title lang="hu">Felvétel indul! XVIII/12.</title>
+    <sub-title lang="hu">2021</sub-title>
+    <desc lang="hu">(HOLLYWOOD ON SET XVIII. (896) EP. 12). Információk: művészet/kultúra.</desc>
+    <icon src="https://www.musor.tv/img/normal/52/5242/Felvetel_indul_XVIII_12_.jpg" />
+  </programme>
+  <programme start="20210324030500 +0100" stop="20210324050000 +0100" channel="HBO (HD)">
+    <title lang="hu">Fekete és kék</title>
+    <sub-title lang="hu">amerikai akciófilm,2019</sub-title>
+    <desc lang="hu">Az afroamerikai Alicia újoncként dolgozik a New Orleans-i rendőrségnél, ahol a gyakorlatban próbálja alkalmazni a tanultakat. Ám van, amire nem volt felkészítve. Egy nap a testkamerájával véletlenül rögzíti egy fiatal kábítószerker. Az afroamerikai Alicia újoncként dolgozik a New Orleans-i rendőrségnél, ahol a gyakorlatban próbálja alkalmazni a tanultakat. Ám van, amire nem volt felkészítve. Egy nap a testkamerájával véletlenül rögzíti egy fiatal kábítószerkereskedő meggyilkolását. Hamarosan megdöbbentő felfedezést tesz, rájön, hogy a gyilkosok korrupt zsaruk voltak. Alicia két tűz közé kerül, a bosszúálló bűnözők is vadásznak rá, akárcsak a két korrupt zsaru, akik meg akarnak szabadulni a terhelő bizonyítéktól. Film: krimi/akció/kaland.</desc>
+    <credits>
+      <director>Deon Taylor</director>
+      <actor>Naomie Harris</actor>
+      <actor>Tyrese Gibson</actor>
+      <actor>Frank Grillo</actor>
+      <actor>Mike Colter</actor>
+      <actor>Reid Scott</actor>
+    </credits>
+    <icon src="https://www.musor.tv/img/normal/186/18603/Fekete_es_kek.jpg" />
+    <rating system="HU">
+      <value>18+</value>
+    </rating>
+  </programme>
+  <programme start="20210324050000 +0100" stop="20210324064000 +0100" channel="HBO (HD)">
+    <title lang="hu">VOLT</title>
+    <sub-title lang="hu">amerikai animációs film,2008</sub-title>
+    <desc lang="hu">Hol Volt, hol nem Volt, volt egyszer egy kutya, amely egy tévésorozat sztárja volt a kis gazdájával, Pennyvel együtt. A képernyőn nap mint nap megmentik a világot a gonosz Dr. Calico ármánykodásától. Két forgatás között azonban Volt. Hol Volt, hol nem Volt, volt egyszer egy kutya, amely egy tévésorozat sztárja volt a kis gazdájával, Pennyvel együtt. A képernyőn nap mint nap megmentik a világot a gonosz Dr. Calico ármánykodásától. Két forgatás között azonban Volt egyszerű kutyaéletet él. Egyik nap véletlenül bezsuppolják egy szállítmányba, és New Yorkban találja magát. Igazi kihívás vár rá, amikor elhatározza, hogy megkeresi a gazdáját. Rá kell jönnie, hogy ebben a világban másként működnek a dolgok, mint a tévében. Szerencsére Mici, a kidobott házimacska és T-Rex, a tévéfüggő hörcsög személyében alkalmi segítőtársakra akad. Gyerekműsorok: rajzfilmek.</desc>
+    <credits>
+      <director>Chris Williams</director>
+      <director>Byron Howard</director>
+    </credits>
+    <icon src="https://www.musor.tv/img/normal/49/4909/VOLT.jpg" />
+  </programme>
+  <programme start="20210324064000 +0100" stop="20210324071500 +0100" channel="HBO (HD)">
+    <title lang="hu">Felvétel indul! XVIII/12.</title>
+    <sub-title lang="hu">2021</sub-title>
+    <desc lang="hu">(HOLLYWOOD ON SET XVIII. (896) EP. 12). Információk: művészet/kultúra.</desc>
+    <icon src="https://www.musor.tv/img/normal/52/5242/Felvetel_indul_XVIII_12_.jpg" />
+  </programme>
+  <programme start="20210324071500 +0100" stop="20210324084500 +0100" channel="HBO (HD)">
+    <title lang="hu">Karácsonyra összezárva</title>
+    <sub-title lang="hu">amerikai romantikus vígjáték,2019</sub-title>
+    <desc lang="hu">A téli vihar eléri Clevelandet, és földre kényszeríti a légijáratokat, a hotelek megtelnek az ottmaradt utazókkal. Nina, a pilóta vonakodva beleegyezik, hogy az arrogáns, de elbűvölő pilótatársát, Bradyt elvigye a szülei közeli há. A téli vihar eléri Clevelandet, és földre kényszeríti a légijáratokat, a hotelek megtelnek az ottmaradt utazókkal. Nina, a pilóta vonakodva beleegyezik, hogy az arrogáns, de elbűvölő pilótatársát, Bradyt elvigye a szülei közeli házába. Ám kiderül, hogy a családja egy favágó partit rendez, melyen Nina volt barátja is jelen lesz. Szerencsére Brady kisegíti, és úgy tesz, mintha a barátja lenne. Amikor a hóvihar folytatódik, Nina és Brady ott ragadnak, és kénytelenek együtt tölteni az ünnepeket. Film: humor/musical.</desc>
+    <credits>
+      <director>Amyn Kaderali</director>
+      <actor>Julianna Guill</actor>
+      <actor>Corey Sevier</actor>
+      <actor>Cheryl Ladd</actor>
+      <actor>Ted Atherton</actor>
+      <actor>Paula Brancati</actor>
+    </credits>
+    <icon src="https://www.musor.tv/img/normal/197/19734/Karacsonyra_osszezarva.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324084500 +0100" stop="20210324103500 +0100" channel="HBO (HD)">
+    <title lang="hu">Tintin kalandjai</title>
+    <sub-title lang="hu">amerikai animációs film,2011</sub-title>
+    <desc lang="hu">Tintin, a kíváncsi, ifjú riporter és kutyája, Milu felfedezik, hogy egy hajómodell hétpecsétes titkot őriz. Az évszázados rejtély felgöngyölítése során Tintin találkozik Iván Ivánovics Szaharinnal, az ördögi gazemberrel, aki úg. Tintin, a kíváncsi, ifjú riporter és kutyája, Milu felfedezik, hogy egy hajómodell hétpecsétes titkot őriz. Az évszázados rejtély felgöngyölítése során Tintin találkozik Iván Ivánovics Szaharinnal, az ördögi gazemberrel, aki úgy gondolja, hogy Tintin ellopta a Vörös Rackham nevű kalóz kincsét. Milu kutya, a kötekedő Archibald Haddock kapitány és a két kétbalkezes nyomozó, Dupont és Dupond segítségével Tintin beutazza a fél világot és kijátssza az ellenségeit, hogy megtalálja a kalózkincs végső nyughelyét. Hergé képregényéből. Gyerekműsorok: rajzfilmek.</desc>
+    <credits>
+      <director>Steven Spielberg</director>
+    </credits>
+    <icon src="https://www.musor.tv/img/normal/32/3294/Tintin_kalandjai.jpg" />
+    <rating system="HU">
+      <value>6+</value>
+    </rating>
+  </programme>
+  <programme start="20210324103500 +0100" stop="20210324122500 +0100" channel="HBO (HD)">
+    <title lang="hu">Jojo Nyuszi</title>
+    <sub-title lang="hu">új-zélandi-cseh-amerikai vígjáték,2019</sub-title>
+    <desc lang="hu">A második világháború idején járunk Németországban. Jojo, a magányos kisfiú az édesanyjával, Rosie-val él, aki egyedül neveli őt. A náci ideológián nevelkedett Jojónak alapjaiban rendül meg a világról alkotott elképzelése, ami. A második világháború idején járunk Németországban. Jojo, a magányos kisfiú az édesanyjával, Rosie-val él, aki egyedül neveli őt. A náci ideológián nevelkedett Jojónak alapjaiban rendül meg a világról alkotott elképzelése, amikor véletlenül rájön, hogy az anyja egy Elsa nevű zsidó lányt bújtat a házuk tetőterében. A kisfiú a tökkelütött, képzeletbeli barátjára, bizonyos Adolf Hitlerre támaszkodva kénytelen átértékelni a nacionalizmussal átmosott gondolkodásmódját. Film: humor/musical.</desc>
+    <credits>
+      <director>Taika Waititi</director>
+      <actor>Roman Griffin Davis</actor>
+      <actor>Thomasin McKenzie</actor>
+      <actor>Scarlett Johansson</actor>
+      <actor>Taika Waititi</actor>
+      <actor>Sam Rockwell</actor>
+    </credits>
+    <icon src="https://www.musor.tv/img/normal/190/19034/Jojo_Nyuszi.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324122500 +0100" stop="20210324141000 +0100" channel="HBO (HD)">
+    <title lang="hu">Verdák 2.</title>
+    <sub-title lang="hu">amerikai animációs vígjáték,2011</sub-title>
+    <desc lang="hu">Villám McQueen nem elégedett meg a Szelep Kupa elhódításával. A versenyverda még mindig hírnévről és dicsőségről álmodik. Miután kipihente magát a szerelme, Sally oldalán, a cimboráival egyetemben a tengerentúlra indul, hogy benev. Villám McQueen nem elégedett meg a Szelep Kupa elhódításával. A versenyverda még mindig hírnévről és dicsőségről álmodik. Miután kipihente magát a szerelme, Sally oldalán, a cimboráival egyetemben a tengerentúlra indul, hogy benevezzen és részt vegyen a világ első Földgolyó-futamán, a világkörüli versenysorozaton, amelyen a legmenőbb verdák, régi és új kedvencek mérik össze (ló)erejüket. Természetesen követi őt a barátja, Matuka, az autómentő is, ami újabb problémákat vet fel. A csapatfőnök ugyanis már az első fordulóban nemzetközi kémbalhéba keveredik. Film: humor/musical.</desc>
+    <credits>
+      <director>John Lasseter</director>
+      <director>Brad Lewis</director>
+    </credits>
+    <icon src="https://www.musor.tv/img/normal/106/10693/Verdak_2_.jpg" />
+  </programme>
+  <programme start="20210324141000 +0100" stop="20210324160000 +0100" channel="HBO (HD)">
+    <title lang="hu">Egy háború margójára</title>
+    <sub-title lang="hu">angol romantikus film,2019</sub-title>
+    <desc lang="hu">Németország, 1946. Rachael Morgan télen érkezik a romos Hamburgba, hogy újra találkozzon a férjével, Lewis Morgan ezredessel, aki a város újjáépítését irányítja. Amikor az új otthonukba indulnak, Rachael megdöbben, amikor megtudja. Németország, 1946. Rachael Morgan télen érkezik a romos Hamburgba, hogy újra találkozzon a férjével, Lewis Morgan ezredessel, aki a város újjáépítését irányítja. Amikor az új otthonukba indulnak, Rachael megdöbben, amikor megtudja, hogy Lewis váratlanul úgy döntött, hogy a nagy házat megosztják a korábbi tulajdonosaival, az özveggyé lett német férfival és annak tini lányával. Az együttélés hamarosan problémák sorát hozza felszínre. Eközben váratlan szenvedélyre lobban Rachael és az özvegy. Film: dráma/melodráma.</desc>
+    <credits>
+      <director>James Kent</director>
+      <actor>Keira Knightley</actor>
+      <actor>Alexander Skarsgård</actor>
+      <actor>Jason Clarke</actor>
+      <actor>Flora Thiemann</actor>
+      <actor>Jannik Schümann</actor>
+    </credits>
+    <icon src="https://www.musor.tv/img/normal/175/17503/Egy_haboru_margojara.jpg" />
+    <rating system="HU">
+      <value>16+</value>
+    </rating>
+  </programme>
+  <programme start="20210324160000 +0100" stop="20210324172000 +0100" channel="HBO (HD)">
+    <title lang="hu">Batman: A Köpenyes Lovagok visszatérnek</title>
+    <sub-title lang="hu">animációs film,2016</sub-title>
+    <desc lang="hu">Batman és segítőtársa, Robin megpróbálják megállítani Gotham City replikasugárral felfegyverzett szupergonoszait - köztük Jokert, Pingvint, Riddleyt és a Macskanőt -, akik a város, végső soron a világ elfoglalására. Batman és segítőtársa, Robin megpróbálják megállítani Gotham City replikasugárral felfegyverzett szupergonoszait - köztük Jokert, Pingvint, Riddleyt és a Macskanőt -, akik a város, végső soron a világ elfoglalására törnek. A legnagyobb gondot az okozza, hogy a gonoszok megalkotják a replikáns Dinamikus Duót, és az igazi Batmant varázslattal a rossz oldalra állítják. Vajon Robin, a Csodafiú, a kétes Macskanő segítségével képes kiszabadítani Batmant, és megmenteni Gotham Cityt a gonosztevőktől. Gyerekműsorok: rajzfilmek.</desc>
+    <credits>
+      <director>Rick Morales</director>
+    </credits>
+    <icon src="https://www.musor.tv/img/normal/195/19511/Batman_A_Kopenyes_Lovagok_visszaternek.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324172000 +0100" stop="20210324190000 +0100" channel="HBO (HD)">
+    <title lang="hu">Ivan, az egyetlen</title>
+    <sub-title lang="hu">amerikai animációs film,2020</sub-title>
+    <desc lang="hu">Ivan egy nagyon különleges emberszabású majom. Egy száznyolcvan kilós ezüsthátú gorilla, amely Stellával, az elefánttal, Bobbal, a kutyával és más, különböző állatokkal osztja meg élőhelyét az egyik külvárosi bevásárlóközp. Ivan egy nagyon különleges emberszabású majom. Egy száznyolcvan kilós ezüsthátú gorilla, amely Stellával, az elefánttal, Bobbal, a kutyával és más, különböző állatokkal osztja meg élőhelyét az egyik külvárosi bevásárlóközpontban. Csupán néhány emléke van a dzsungelről, ahol fogságba ejtették. Ám minden megváltozik, amikor megérkezik Ruby, a bébielefánt. Ivant mélyen megérinti a kis Ruby sorsa, akit most szakítottak el a családjától a vadonban, ami miatt megkérdőjelezi az egész életét. Gyerekműsorok: rajzfilmek.</desc>
+    <credits>
+      <director>Thea Sharrock</director>
+      <actor>Bryan Cranston</actor>
+      <actor>Ramon Rodriguez</actor>
+      <actor>Ariana Greenblatt</actor>
+      <actor>Owain Arthur</actor>
+      <actor>Hannah Bourne</actor>
+    </credits>
+    <icon src="https://www.musor.tv/img/normal/197/19700/Ivan_az_egyetlen.jpg" />
+    <rating system="HU">
+      <value>6+</value>
+    </rating>
+  </programme>
+  <programme start="20210324190000 +0100" stop="20210324214000 +0100" channel="HBO (HD)">
+    <title lang="hu">A hobbit - Smaug pusztasága</title>
+    <sub-title lang="hu">amerikai fantáziafilm,2013</sub-title>
+    <desc lang="hu">A Hobbit-trilógia 2. részében Zsákos Bilbó folytatja útját Gandalffal és a Tölgypajzsos Thorin vezette tizenhárom törppel, hogy beteljesítsék küldetésüket, és visszahódítsák a Magányos Hegyet és Erebort a félelmetes s. A Hobbit-trilógia 2. részében Zsákos Bilbó folytatja útját Gandalffal és a Tölgypajzsos Thorin vezette tizenhárom törppel, hogy beteljesítsék küldetésüket, és visszahódítsák a Magányos Hegyet és Erebort a félelmetes sárkánytól. Miután túlélték a váratlan utazás kezdetén rájuk leselkedő veszélyeket, tovább vándorolva találkoznak az alakváltó Beornnal, és óriáspókok rajával is meg kell küzdeniük a Bakacsinerdőben. Miután a törpök megmenekülnek a veszélyes erdőtündék fogságából, elérkeznek Tóvárosba, majd végül a Magányos Hegyhez. Itt szembe kell nézniük életük legnagyobb veszélyével, egy minden másnál félelmetesebb élőlénnyel, aki nemcsak bátorságukat, hanem barátságukat és küldetésük létjogosultságát is próbára teszi: és aki nem más, mint a félelmetes és ördögi sárkány, Smaug. Film: sci-fi/horror/fantasy.</desc>
+    <credits>
+      <director>Peter Jackson</director>
+      <actor>Martin Freeman</actor>
+      <actor>Ian McKellen</actor>
+      <actor>Richard Armitage</actor>
+      <actor>Ken Stott</actor>
+      <actor>Graham McTavish</actor>
+    </credits>
+    <icon src="https://www.musor.tv/img/normal/25/2500/A_hobbit_Smaug_pusztasaga.jpg" />
+    <rating system="HU">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20210324214000 +0100" stop="20210324223000 +0100" channel="HBO (HD)">
+    <title lang="hu">Könnyek völgye 7.</title>
+    <sub-title lang="hu">izraeli drámasorozat,2020</sub-title>
+    <desc lang="hu">A tízrészes sorozat valós eseményeket dolgoz fel. 1973. október 6-án az Egyiptom és Szíria vezette arab koalíció meglepetésszerű támadást indít Izrael ellen. A túlerőben lévő ellenség célja az 1967-es, hatna. A tízrészes sorozat valós eseményeket dolgoz fel. 1973. október 6-án az Egyiptom és Szíria vezette arab koalíció meglepetésszerű támadást indít Izrael ellen. A túlerőben lévő ellenség célja az 1967-es, hatnapos háborúban elveszített területek visszaszerzése, valamint Izrael elpusztítása volt. A drámai történet a jom kippuri háború északi, szír frontján zajló összecsapásokra koncentrál, és a csatákban résztvevő három fiatal katona szemszögéből mutatja be a sorsfordító eseményeket. Sorozatok: dráma/melodráma.</desc>
+    <credits>
+      <director>Yaron Zilberman</director>
+      <director>Daniel Amsel</director>
+      <director>Amit Cohen</director>
+      <director>Ron Leshem</director>
+      <actor>Lior Ashkenazi</actor>
+      <actor>Avraham Aviv Alush</actor>
+      <actor>Lee Biran</actor>
+      <actor>Shahar Taboch</actor>
+      <actor>Joy Rieger</actor>
+      <actor>Ofer Hayoun</actor>
+      <actor>Maor Schwitzer</actor>
+      <actor>Imri Biton</actor>
+      <actor>Aviv Alush</actor>
+    </credits>
+    <icon src="https://www.musor.tv/img/normal/197/19737/Konnyek_volgye_7_.jpg" />
+    <rating system="HU">
+      <value>16+</value>
+    </rating>
+  </programme>
+  <programme start="20210324223000 +0100" stop="20210325000500 +0100" channel="HBO (HD)">
+    <title lang="hu">Látlak (2019)</title>
+    <sub-title lang="hu">amerikai horror,2019</sub-title>
+    <desc lang="hu">A feleség hűtlensége beárnyékolja a Harper család életét. A férj, Greg nyomozó, aki egy fiatal fiú eltűnése ügyében nyomoz. Miközben a munkáját végzi, próbálja rendezni kapcsolatát a nejével. Jackie is mindent megtesz annak ér. A feleség hűtlensége beárnyékolja a Harper család életét. A férj, Greg nyomozó, aki egy fiatal fiú eltűnése ügyében nyomoz. Miközben a munkáját végzi, próbálja rendezni kapcsolatát a nejével. Jackie is mindent megtesz annak érdekében, hogy feledtesse a botlását, azonban úgy tűnik, hogy a bűntudata lassan az agyára megy, amikor szokatlan dolgokat kezd tapasztalni a házukban. Ám a furcsa jelenések egyre gyakoribbak lesznek, a megmagyarázhatatlan gonosz már Greg és Jackie kisfiát fenyegeti. Film: sci-fi/horror/fantasy.</desc>
+    <credits>
+      <director>Adam Randall</director>
+      <actor>Helen Hunt</actor>
+      <actor>Jon Tenney</actor>
+      <actor>Judah Lewis</actor>
+      <actor>Owen Teague</actor>
+      <actor>Libe Barer</actor>
+    </credits>
+    <icon src="https://www.musor.tv/img/normal/199/19966/Latlak_2019_.jpg" />
+    <rating system="HU">
+      <value>16+</value>
+    </rating>
+  </programme>
+</tv>
