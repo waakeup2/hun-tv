@@ -407,7 +407,9 @@
   <programme start="20210324051500 +0100" stop="20210324052500 +0100" channel="TV2 (HD)">
     <title lang="hu">MOKKA</title>
     <sub-title lang="hu">magazinműsor,2021</sub-title>
-    <desc lang="hu">A TV2 reggeli magazinműsora! A TV2 reggeli magazinműsora. Szórakozás: stílus/divat/pletykák. Hallássérültek számára feliratozva.</desc>
+    <desc lang="hu">A TV2 reggeli magazinműsora! A TV2 reggeli magazinműsora. Szórakozás: stílus/divat/pletykák. Hallássérültek számára feliratozva.
+    
+    LOOOL</desc>
     <icon src="https://www.musor.tv/img/normal/17/1793/MOKKA.jpg" />
     <rating system="HU">
       <value>12+</value>
