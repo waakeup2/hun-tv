@@ -5,82 +5,82 @@
     <icon src="https://www.musor.tv/images/sport1.svg" />
     <url>http://www.musor.tv</url>
   </channel>
-  <programme start="20210329013000 +0000" stop="20210329033000 +0000" channel="sport1.hu">
+  <programme start="20210329013000 -0200" stop="20210329033000 -0200" channel="sport1.hu">
     <title lang="hu">Labdarúgás</title>
     <sub-title lang="hu">[Grúzia - Spanyolország]</sub-title>
     <desc lang="hu">Vb-selejtező, Tbiliszi  ism.
 </desc>
   </programme>
-  <programme start="20210329033000 +0000" stop="20210329050000 +0000" channel="sport1.hu">
+  <programme start="20210329033000 -0200" stop="20210329050000 -0200" channel="sport1.hu">
     <title lang="hu">Kézilabda</title>
     <sub-title lang="hu">[Flensburg - THW Kiel]</sub-title>
     <desc lang="hu">Bundesliga, 23. forduló  ism.
 </desc>
   </programme>
-  <programme start="20210329050000 +0000" stop="20210329063000 +0000" channel="sport1.hu">
+  <programme start="20210329050000 -0200" stop="20210329063000 -0200" channel="sport1.hu">
     <title lang="hu">Televíziós vásárlás</title>
     <desc>
 </desc>
   </programme>
-  <programme start="20210329063000 +0000" stop="20210329083000 +0000" channel="sport1.hu">
+  <programme start="20210329063000 -0200" stop="20210329083000 -0200" channel="sport1.hu">
     <title lang="hu">Labdarúgás</title>
     <sub-title lang="hu">[Románia - Németország]</sub-title>
     <desc lang="hu">Vb-selejtező, Bukarest  ism.
 </desc>
   </programme>
-  <programme start="20210329083000 +0000" stop="20210329100000 +0000" channel="sport1.hu">
+  <programme start="20210329083000 -0200" stop="20210329100000 -0200" channel="sport1.hu">
     <title lang="hu">Labdarúgás</title>
     <sub-title lang="hu">[vb-selejtezők, 2. ford., 2. játéknap]</sub-title>
     <desc lang="hu">ism.
 </desc>
   </programme>
-  <programme start="20210329100000 +0000" stop="20210329110000 +0000" channel="sport1.hu">
+  <programme start="20210329100000 -0200" stop="20210329110000 -0200" channel="sport1.hu">
     <title lang="hu">Televíziós vásárlás</title>
     <desc>
 </desc>
   </programme>
-  <programme start="20210329110000 +0000" stop="20210329124500 +0000" channel="sport1.hu">
+  <programme start="20210329110000 -0200" stop="20210329124500 -0200" channel="sport1.hu">
     <title lang="hu">Labdarúgás</title>
     <sub-title lang="hu">[Kazahsztán - Franciaország]</sub-title>
     <desc lang="hu">Vb-selejtező, Nur-Szultan  ism.
 </desc>
   </programme>
-  <programme start="20210329124500 +0000" stop="20210329144500 +0000" channel="sport1.hu">
+  <programme start="20210329124500 -0200" stop="20210329144500 -0200" channel="sport1.hu">
     <title lang="hu">Labdarúgás</title>
     <sub-title lang="hu">[Albánia - Anglia]</sub-title>
     <desc lang="hu">Vb-selejtező, Tirana  ism.
 </desc>
   </programme>
-  <programme start="20210329144500 +0000" stop="20210329164500 +0000" channel="sport1.hu">
+  <programme start="20210329144500 -0200" stop="20210329164500 -0200" channel="sport1.hu">
     <title lang="hu">Labdarúgás</title>
     <sub-title lang="hu">[Grúzia - Spanyolország]</sub-title>
     <desc lang="hu">Vb-selejtező, Tbiliszi  ism.
 </desc>
   </programme>
-  <programme start="20210329164500 +0000" stop="20210329170000 +0000" channel="sport1.hu">
+  <programme start="20210329164500 -0200" stop="20210329170000 -0200" channel="sport1.hu">
     <title lang="hu">Mai helyzet</title>
     <desc>
 </desc>
   </programme>
-  <programme start="20210329170000 +0000" stop="20210329190000 +0000" channel="sport1.hu">
+  <programme start="20210329170000 -0200" stop="20210329190000 -0200" channel="sport1.hu">
     <title lang="hu">Labdarúgás</title>
     <sub-title lang="hu">[Koszovó - Svédország]</sub-title>
     <desc lang="hu">Vb-selejtező, Pristina.
 </desc>
   </programme>
-  <programme start="20210329190000 +0000" stop="20210329210000 +0000" channel="sport1.hu">
+  <programme start="20210329190000 -0200" stop="20210329210000 -0200" channel="sport1.hu">
     <title lang="hu">Labdarúgás</title>
     <sub-title lang="hu">[San Marino - Magyarország]</sub-title>
     <desc lang="hu">Vb-selejtező, Serravalle.
 </desc>
   </programme>
-  <programme start="20210329210000 +0000" stop="20210329230000 +0000" channel="sport1.hu">
+  <programme start="20210329210000 -0200" stop="20210329230000 -0200" channel="sport1.hu">
     <title lang="hu">Labdarúgás</title>
     <sub-title lang="hu">[Románia - Németország]</sub-title>
     <desc lang="hu">Vb-selejtező, Bukarest  ism.
 </desc>
   </programme>
-  <programme start="20210329230000 +0000" stop="20210330003000 +0000" channel="sport1.hu">
+  <programme start="20210329230000 -0200" stop="20210330003000 -0200" channel="sport1.hu">
     <title lang="hu">Labdarúgás</title>
     <sub-title lang="hu">[vb-selejtezők, 2. ford., 2. játéknap]</sub-title>
     <desc lang="hu">ism.
