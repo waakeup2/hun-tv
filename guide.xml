@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="Comedy Central">
+  <channel id="comedy.central.hu">
     <display-name lang="hu">Comedy Central</display-name>
     <icon src="https://media.port.hu/images/001/328/100x60/878.jpg" />
     <url>http://www.port.hu.app</url>
