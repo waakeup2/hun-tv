@@ -1,5 +1,5 @@
 [playlist]
-File1=https://github.com/waakeup2/hun-tv/raw/master/radio1_jingle.mp3
+File1=http://github.com/waakeup2/hun-tv/raw/master/radio1_jingle.mp3
 Title1=Jingle
 Length1=0
 
