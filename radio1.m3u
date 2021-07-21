@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:1,radio1_jingle.mp3
+http://wkp.mooo.com/rex/radio1_jingle.mp3
+#EXTINF:0,szeged.mp3
+http://videk.radio1.hu:80/szeged.mp3
