@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:1,radio1_jingle.mp3
-http://wkp.mooo.com/rex/radio1_jingle.mp3
+#EXTINF:1,radio1_jingle2.mp3
+https://github.com/waakeup2/hun-tv/raw/master/radio1_jingle2.mp3
 #EXTINF:0,szeged.mp3
 http://videk.radio1.hu:80/szeged.mp3
