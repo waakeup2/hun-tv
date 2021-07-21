@@ -1,5 +1,5 @@
 [playlist]
-File1=http://wkp.mooo.com/rex/radio1_jingle.mp3
+File1=https://github.com/waakeup2/hun-tv/raw/master/radio1_jingle2.mp3
 Title1=87.9 Rádió 1 - Szeged - Online adás (Default Quality (MP3))d
 
 NumberOfEntries=1
